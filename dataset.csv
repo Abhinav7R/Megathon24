@@ -1,0 +1,1879 @@
+text,intensity,category,polarity,emotion
+"I constantly check my blood pressure and heart rate. Every small pain makes me think something is seriously wrong with me.",8,Health Anxiety,-1.0,fear
+"My appetite has disappeared completely. The thought of food makes me anxious, and I've been skipping meals frequently.",9,Eating Disorder,-1.0,fear
+"These panic attacks keep getting worse. My heart races, and I can't catch my breath when I'm in crowded places.",7,Anxiety,-1.0,fear
+"I haven't left my bed in days. Nothing seems worth doing anymore, and I feel completely empty inside.",9,Depression,-1.0,sadness
+"I've been tossing and turning all night. My mind won't shut off, and I'm exhausted but can't sleep.",8,Insomnia,-1.0,sadness
+"The deadlines at work are overwhelming me. I'm carrying so much responsibility, and it's affecting my health.",7,Stress,-1.0,anger
+"Every morning feels like a new opportunity. I'm grateful for the small wins and progress I'm making.",8,Positive Outlook,1.0,joy
+"I feel stuck in my current job. Should I switch careers? I'm passionate about something else but fear change.",6,Career Confusion,-1.0,joy
+"I'm trying to eat healthy, but the guilt after meals is overwhelming. I spend hours thinking about calories.",8,Eating Disorder,-1.0,joy
+"Each day brings new possibilities. I'm excited about my future and the positive changes I'm making.",9,Positive Outlook,1.0,joy
+"I'm worried about these headaches. What if it's something serious? I keep searching my symptoms online.",7,Health Anxiety,-1.0,fear
+"Everything feels heavy lately. I've lost interest in activities I used to enjoy, and nothing excites me.",8,Depression,-1.0,sadness
+"The work pressure is getting to me. I can't focus on tasks, and my mind is always racing with worry.",7,Anxiety,-1.0,fear
+"Sleep seems impossible these days. I lie awake counting hours, dreading another restless night.",9,Insomnia,-1.0,fear
+"Multiple deadlines are approaching. I feel my chest tightening when I think about all the pending work.",8,Stress,-1.0,fear
+"Should I pursue further education? My current career path feels unclear, and I'm unsure about next steps.",6,Career Confusion,-1.0,fear
+"I've been feeling more energetic lately. Each day I find something to smile about and be thankful for.",7,Positive Outlook,1.0,joy
+"The mirror has become my enemy. I spend hours checking my body and feeling disappointed with myself.",9,Eating Disorder,-1.0,sadness
+"Every small symptom terrifies me. I'm constantly worried about my health and my family's well-being.",8,Health Anxiety,-1.0,fear
+"I can't remember the last time I felt truly happy. Everything seems pointless and gray.",9,Depression,-1.0,joy
+"Social situations make me freeze up. I'm always worried about what others might think of me.",7,Anxiety,-1.0,fear
+"Another sleepless night. My mind keeps racing with thoughts, and I can't find peace to rest.",8,Insomnia,-1.0,fear
+"The constant meetings and emails are draining me. I feel like I'm always behind and can't catch up.",7,Stress,-1.0,sadness
+"Life feels full of opportunities. I'm making progress and feeling more confident each day.",8,Positive Outlook,1.0,joy
+"I don't know if I'm on the right path. My career choices keep me up at night wondering 'what if'.",6,Career Confusion,-1.0,fear
+"I've been skipping meals lately because I feel out of control. The thought of eating makes me anxious.",9,Eating Disorder,-1.0,fear
+"My hands shake when I think about tomorrow's presentation. I can't seem to calm my racing thoughts.",7,Anxiety,-1.0,joy
+"I haven't left my room in days. Nothing seems worth doing anymore, and I feel empty inside.",9,Depression,-1.0,sadness
+"I've been lying awake until 4 AM every night. My mind won't stop racing when I try to sleep.",8,Insomnia,-1.0,fear
+"Work deadlines are piling up, and I feel overwhelmed. I can't focus on anything properly.",7,Stress,-1.0,surprise
+"Each day brings new opportunities for growth. I'm excited about the positive changes in my life.",8,Positive Outlook,1.0,joy
+"I don't know if I chose the right career path. Everyone else seems to have it figured out.",6,Career Confusion,-1.0,joy
+"My chest feels tight whenever I think about my health report. I keep googling symptoms constantly.",7,Health Anxiety,-1.0,joy
+"I feel guilty every time I eat. Yesterday I skipped dinner because I felt I didn't deserve it.",8,Eating Disorder,-1.0,sadness
+"Social situations make my heart race. I worry about what everyone thinks of me.",6,Anxiety,-1.0,fear
+"I used to enjoy painting, but now I can't find the energy to pick up a brush.",7,Depression,-1.0,joy
+"I'm grateful for all the progress I've made. Life feels full of possibilities now.",9,Positive Outlook,1.0,joy
+"The bags under my eyes keep getting darker. I can't remember the last time I had proper sleep.",8,Insomnia,-1.0,sadness
+"Meeting deadlines makes me feel accomplished. I'm learning to manage my time better.",6,Stress,1.0,joy
+"Should I switch careers? I feel lost when I see my colleagues advancing while I'm stuck.",7,Career Confusion,-1.0,sadness
+"Today was productive and fulfilling. I'm proud of how far I've come in my journey.",7,Positive Outlook,1.0,joy
+"I keep worrying about getting sick. Every news about diseases makes me panic.",6,Health Anxiety,-1.0,fear
+"Food has become my enemy. I spend hours counting calories and feeling guilty.",9,Eating Disorder,-1.0,sadness
+"Simple tasks feel overwhelming lately. I'm constantly on edge about everything.",8,Anxiety,-1.0,fear
+"I feel like a failure most days. Nothing I do seems good enough anymore.",8,Depression,-1.0,sadness
+"My mind races with worries when I try to sleep. I've tried everything but nothing helps.",7,Insomnia,-1.0,fear
+"Balancing work and life feels impossible. I'm always behind on something.",6,Stress,-1.0,sadness
+"I'm learning to appreciate small wins. Each day brings something to be thankful for.",8,Positive Outlook,1.0,joy
+"Everyone seems to be moving forward except me. I question my career choices daily.",7,Career Confusion,-1.0,joy
+"The waiting room at the doctor's makes me panic. I'm always expecting the worst news.",8,Health Anxiety,-1.0,fear
+"I've started keeping a food diary, and it's helping me develop a healthier relationship with eating.",6,Eating Disorder,1.0,joy
+"Sometimes I freeze up in social situations, but I'm learning to manage it better.",5,Anxiety,0.0,joy
+"I'm taking small steps each day. The darkness isn't as heavy as it used to be.",6,Depression,0.0,sadness
+"I've developed a bedtime routine that helps me relax. Sleep is getting better gradually.",5,Insomnia,1.0,joy
+"Learning to prioritize tasks has made work more manageable. I feel more in control now.",4,Stress,1.0,joy
+"Every challenge is a learning opportunity. I'm growing stronger each day.",9,Positive Outlook,1.0,joy
+"Exploring different career options has helped me understand myself better.",5,Career Confusion,0.0,joy
+"I've been feeling more at ease about my health. I'm learning to trust my body.",4,Health Anxiety,1.0,joy
+"I'm trying to eat mindfully and enjoy my meals without guilt. It's a work in progress.",5,Eating Disorder,1.0,joy
+"Social situations used to terrify me, but I'm learning to cope with them better.",4,Anxiety,0.0,fear
+"I'm finding joy in small moments again. Life feels brighter than before.",6,Depression,1.0,joy
+"Sleep is becoming more restful. I'm learning to quiet my mind before bed.",5,Insomnia,1.0,fear
+"Setting boundaries at work has reduced my stress levels. I feel more balanced now.",4,Stress,1.0,joy
+"I wake up excited about the day ahead. Each morning is a fresh start.",7,Positive Outlook,1.0,joy
+"I'm exploring different career paths to find what truly excites me. Change is scary but necessary.",6,Career Confusion,0.0,fear
+"I'm feeling more confident about my health. I've started listening to my body's signals.",4,Health Anxiety,1.0,joy
+"I'm learning to enjoy food without obsessing over calories. It's liberating.",5,Eating Disorder,1.0,joy
+"Socializing has become less daunting. I'm finding common ground with others.",4,Anxiety,0.0,fear
+"My mind feels like it can't rest when thinking about health issues. Every small symptom makes me worry about serious illnesses.",8,Health Anxiety,-1.0,sadness
+"It's a struggle to eat normally these days. I'm constantly worried about calories and gaining weight.",9,Eating Disorder,-1.0,fear
+"Lately, I've been feeling very anxious about everything. Simple tasks feel overwhelming and my heart races often.",7,Anxiety,-1.0,fear
+"Sometimes, I think I'm feeling hopeful about my recovery. Each day brings small improvements in my mood.",6,Depression,1.0,joy
+"I'm trying, but I'm still extremely stressed about work deadlines. Everything feels like it's piling up.",8,Stress,-1.0,sadness
+"My mind feels like it can't sleep well again. I've been tossing and turning all night.",7,Insomnia,-1.0,joy
+"It's a struggle with my career path. I'm constantly worried about making the wrong choices.",6,Career Confusion,-1.0,fear
+"Sometimes, I think I'm feeling hopeful about the future. Life seems full of possibilities again.",8,Positive Outlook,1.0,joy
+"My mind feels like it's racing with health fears. Every doctor's appointment fills me with dread.",9,Health Anxiety,-1.0,fear
+"Lately, I've been feeling very anxious about food. Mealtimes have become a source of stress.",8,Eating Disorder,-1.0,fear
+"I'm trying, but I'm still extremely stressed in social situations. My hands shake during meetings.",7,Anxiety,-1.0,anger
+"My mind feels like it can't find joy anymore. Even simple tasks feel overwhelming these days.",9,Depression,-1.0,joy
+"Sometimes, I think I'm feeling better about my sleep patterns. The nighttime anxiety is slowly improving.",5,Insomnia,1.0,joy
+"Lately, I've been feeling very overwhelmed at work. The pressure keeps building up.",8,Stress,-1.0,surprise
+"It's a struggle to stay positive, but I'm making progress. Small wins keep me going.",6,Positive Outlook,0.0,joy
+"My mind feels like it's stuck between different career options. Decision-making seems impossible.",7,Career Confusion,-1.0,sadness
+"It's a struggle with these constant health worries. I check my symptoms online repeatedly.",8,Health Anxiety,-1.0,fear
+"Lately, I've been feeling very conflicted about eating. The guilt after meals is overwhelming.",9,Eating Disorder,-1.0,anger
+"I'm trying, but I'm still extremely nervous about everyday things. My thoughts won't slow down.",8,Anxiety,-1.0,fear
+"My mind feels like it's wrapped in darkness. Getting through each day is a challenge.",9,Depression,-1.0,sadness
+"Sometimes, I think I'm feeling more rested. The sleepless nights are becoming less frequent.",6,Insomnia,1.0,joy
+"Lately, I've been feeling very pressured by deadlines. Work-life balance seems impossible.",7,Stress,-1.0,fear
+"It's a struggle, but I'm seeing positive changes. Each day brings new hope.",7,Positive Outlook,1.0,joy
+"I'm trying, but I'm still extremely confused about my professional path. Others seem more certain.",6,Career Confusion,-1.0,fear
+"Sometimes, I think I'm managing my health anxiety better. The constant worry is lessening.",5,Health Anxiety,1.0,joy
+"My mind feels like it's constantly focused on food rules. Breaking routine causes panic.",8,Eating Disorder,-1.0,joy
+"It's a struggle with daily anxiety, but I'm learning to cope. Deep breathing helps sometimes.",6,Anxiety,0.0,joy
+"Lately, I've been feeling very low, but therapy is helping. Small steps forward matter.",5,Depression,0.0,sadness
+"I'm trying, but I'm still extremely tired from lack of sleep. Bedtime has become stressful.",8,Insomnia,-1.0,sadness
+"My mind feels like it's always in overdrive. Work stress follows me everywhere.",7,Stress,-1.0,joy
+"Lately, I've been feeling very optimistic about life. Challenges seem more manageable now.",9,Positive Outlook,1.0,joy
+"Sometimes, I think I'm finding clarity about my career. The uncertainty is slowly lifting.",5,Career Confusion,1.0,joy
+"It's a struggle with medical appointments. I'm constantly worried about test results.",7,Health Anxiety,-1.0,fear
+"My mind feels like it's obsessed with body image. Eating has become a mathematical exercise.",9,Eating Disorder,-1.0,love
+"Lately, I've been feeling very tense in crowds. Social situations drain my energy completely.",8,Anxiety,-1.0,anger
+"My mind feels like it can't sleep well. I toss and turn all night, watching the clock tick by.",8,Insomnia,-1.0,joy
+"It's a struggle, I'm constantly worried about my health. Every small symptom sends me into panic.",9,Health Anxiety,-1.0,fear
+"Lately, I've been feeling very anxious about food. The thought of eating makes me uncomfortable.",7,Eating Disorder,-1.0,fear
+"Sometimes, I think I'm feeling hopeful about my future. Each day brings new possibilities.",6,Positive Outlook,1.0,joy
+"I'm trying, but I'm still extremely stressed about work deadlines and expectations.",8,Stress,-1.0,anger
+"My mind feels like it can't find peace. Every social situation makes me overthink.",7,Anxiety,-1.0,sadness
+"It's a struggle, I'm constantly worried about my career path. Nothing seems clear anymore.",6,Career Confusion,-1.0,fear
+"Lately, I've been feeling very low. Simple tasks feel overwhelming and meaningless.",8,Depression,-1.0,sadness
+"My mind feels scattered and restless. Sleep seems like a distant memory these days.",7,Insomnia,-1.0,fear
+"Sometimes, I think I'm making progress with my anxiety. The worry isn't as intense.",5,Anxiety,0.0,joy
+"I'm trying, but I'm still extremely concerned about every bite I eat.",9,Eating Disorder,-1.0,fear
+"My mind feels heavy with career doubts. Everyone else seems to have direction.",7,Career Confusion,-1.0,sadness
+"It's a struggle, but I'm starting to see small improvements in my mood.",4,Depression,0.0,joy
+"Lately, I've been feeling more optimistic about life. Small wins keep me going.",6,Positive Outlook,1.0,joy
+"Sometimes, I think the stress is becoming manageable. I'm learning better coping strategies.",5,Stress,0.0,joy
+"My mind races with health concerns constantly. Every news article triggers my worry.",8,Health Anxiety,-1.0,fear
+"I'm trying to stay positive, but sleep evades me night after night.",7,Insomnia,-1.0,joy
+"Lately, I've been questioning every career decision I've made. The uncertainty is overwhelming.",8,Career Confusion,-1.0,fear
+"Sometimes, I think my relationship with food is improving slowly.",4,Eating Disorder,0.0,joy
+"It's a struggle with constant health anxiety, but I'm taking it day by day.",6,Health Anxiety,0.0,fear
+"My mind feels lighter these days. I'm finding joy in small moments again.",5,Positive Outlook,1.0,joy
+"I'm trying to manage my depression, taking small steps each day.",5,Depression,0.0,joy
+"Lately, I've been dealing with overwhelming stress at work and home.",8,Stress,-1.0,fear
+"Sometimes, I think my anxiety is finally becoming more manageable.",4,Anxiety,1.0,joy
+"My mind feels trapped in this cycle of worry. Sleep seems impossible lately.",9,Insomnia,-1.0,fear
+"It's a struggle to find my professional path, but I'm exploring options.",6,Career Confusion,0.0,joy
+"I'm trying to build a healthier relationship with food, one meal at a time.",5,Eating Disorder,1.0,joy
+"Lately, I've been more confident about my health choices.",4,Health Anxiety,1.0,joy
+"Sometimes, I think the darkness is lifting. I feel more like myself.",6,Depression,1.0,sadness
+"My mind feels clearer when I practice mindfulness. The stress is less overwhelming.",5,Stress,1.0,joy
+"It's a struggle with anxiety, but therapy is helping me understand it better.",6,Anxiety,0.0,fear
+"I'm trying to embrace each day with hope. The future seems brighter now.",7,Positive Outlook,1.0,joy
+"Lately, I've been sleeping better with my new bedtime routine.",4,Insomnia,1.0,joy
+"Sometimes, I think my career uncertainty is leading me to better opportunities.",5,Career Confusion,1.0,joy
+"I'm feeling very low these days, can't seem to find joy in anything. Even simple tasks feel overwhelming.",8,Depression,-1.0,sadness
+"I am feeling hopeful about my recovery, and it's making a positive difference in my daily routine.",6,Positive Outlook,1.0,joy
+"My mind keeps worrying about my health. Every small symptom feels like it could be something serious.",7,Health Anxiety,-1.0,sadness
+"I am constantly worried about my future career path, and it's affecting my current work performance.",6,Career Confusion,-1.0,fear
+"Recently, I've noticed that I'm constantly worried about eating in public places.",8,Eating Disorder,-1.0,fear
+"I am feeling much better these days. The therapy sessions are really helping me cope.",5,Positive Outlook,1.0,joy
+"Lately, I've been happy and excited about my new job opportunity.",7,Career Confusion,1.0,joy
+"Things have been tough, I keep extremely stressed about my upcoming medical tests.",9,Health Anxiety,-1.0,anger
+"These past few days, I've been feeling can't sleep well, tossing and turning all night.",8,Insomnia,-1.0,joy
+"Every day I'm not eating properly, skipping meals has become a habit I can't break.",7,Eating Disorder,-1.0,sadness
+"Sometimes, I think I'm feeling much better, but then anxiety creeps back in unexpectedly.",5,Anxiety,0.0,joy
+"The constant health-related thoughts are draining my energy. Every headache feels like a crisis.",8,Health Anxiety,-1.0,sadness
+"Food has become my enemy. I spend hours calculating calories and feeling guilty after meals.",9,Eating Disorder,-1.0,sadness
+"Meeting deadlines at work fills me with dread. My hands shake just thinking about it.",7,Anxiety,-1.0,fear
+"Nothing seems worth doing anymore. I stay in bed most days, avoiding everyone.",9,Depression,-1.0,joy
+"Sleep feels impossible lately. I watch the clock tick past midnight every single night.",8,Insomnia,-1.0,sadness
+"Work pressure is crushing me. I can barely focus on tasks anymore.",8,Stress,-1.0,fear
+"Started a new hobby and it brings me joy. Finally feeling like myself again.",6,Positive Outlook,1.0,joy
+"Should I switch careers now? The uncertainty is eating away at my confidence.",7,Career Confusion,-1.0,fear
+"Every minor body sensation sends me into panic mode about my health.",8,Health Anxiety,-1.0,fear
+"I've stopped going to social events because they involve food. The anxiety is too much.",9,Eating Disorder,-1.0,fear
+"Simple decisions feel overwhelming. My mind won't stop overthinking everything.",7,Anxiety,-1.0,joy
+"Can't remember the last time I felt genuinely happy. Everything feels grey.",8,Depression,-1.0,joy
+"Third night without proper sleep. My mind races with worries when I lay down.",9,Insomnia,-1.0,fear
+"The constant demands from work and family are becoming unbearable.",8,Stress,-1.0,anger
+"My new morning routine is helping me stay positive throughout the day.",5,Positive Outlook,1.0,joy
+"Feeling lost about my professional direction. Should I start over in a new field?",6,Career Confusion,-1.0,sadness
+"Doctor's appointments give me panic attacks. I'm always expecting the worst news.",7,Health Anxiety,-1.0,fear
+"The thought of eating at restaurants makes me anxious. I make excuses to avoid them.",8,Eating Disorder,-1.0,fear
+"Presenting in meetings makes my heart race. I worry about judgment constantly.",7,Anxiety,-1.0,fear
+"Even my favorite activities don't bring joy anymore. Everything feels pointless.",9,Depression,-1.0,sadness
+"The lack of sleep is affecting my work. I'm tired but can't shut off my thoughts.",8,Insomnia,-1.0,sadness
+"Balancing work and personal life feels impossible. I'm always behind on something.",7,Stress,-1.0,sadness
+"Finally seeing progress in therapy. Small wins feel significant now.",6,Positive Outlook,1.0,joy
+"My career path feels unclear. Everyone else seems to have it figured out.",6,Career Confusion,-1.0,fear
+"I check my pulse constantly throughout the day. Health anxiety controls my life.",8,Health Anxiety,-1.0,fear
+"Avoiding social gatherings because they involve meals. I miss my friends.",7,Eating Disorder,-1.0,sadness
+"Grocery shopping makes me anxious now. The crowds feel overwhelming.",6,Anxiety,-1.0,fear
+"Getting out of bed feels like climbing a mountain. Each day is a struggle.",8,Depression,-1.0,fear
+"I lie awake counting hours until sunrise. Sleep seems impossible.",9,Insomnia,-1.0,fear
+"Deadlines keep piling up, and I feel frozen with stress.",8,Stress,-1.0,fear
+"Started volunteering, and it gives my life new meaning.",7,Positive Outlook,1.0,joy
+"The thought of changing careers both excites and terrifies me.",5,Career Confusion,0.0,fear
+"Every unfamiliar body sensation sends me into a panic spiral.",7,Health Anxiety,-1.0,fear
+"I've developed strict food rules that control my daily life.",8,Eating Disorder,-1.0,anger
+"Simple tasks like checking email fill me with unexplainable dread.",6,Anxiety,-1.0,sadness
+"The future feels hopeless. I can't imagine things getting better.",9,Depression,-1.0,sadness
+"My sleep schedule is completely broken. I feel exhausted but wired.",8,Insomnia,-1.0,sadness
+"Work expectations keep increasing, and I'm struggling to cope.",7,Stress,-1.0,fear
+"Finding joy in small moments again. Recovery feels possible.",6,Positive Outlook,1.0,joy
+"Unsure if I should pursue my passion or stay in my stable job.",6,Career Confusion,0.0,fear
+"Health websites have become my obsession. I'm always searching symptoms.",8,Health Anxiety,-1.0,joy
+"The mirror has become my enemy. I avoid looking at myself.",9,Eating Disorder,-1.0,anger
+"Social situations make my heart race and palms sweat.",7,Anxiety,-1.0,anger
+"Can't focus on anything. My mind feels empty and heavy.",8,Depression,-1.0,sadness
+"Night time has become my enemy. I dread going to bed.",8,Insomnia,-1.0,fear
+"Feel like I'm drowning in responsibilities and expectations.",9,Stress,-1.0,sadness
+"Started meditation, and it's bringing peace to my days.",5,Positive Outlook,1.0,joy
+"Want to change careers but fear making the wrong choice.",7,Career Confusion,-1.0,fear
+"Always imagining the worst possible health scenarios.",8,Health Anxiety,-1.0,fear
+"Food has become numbers and rules instead of enjoyment.",8,Eating Disorder,-1.0,joy
+"Constant worry about future events consumes my thoughts.",7,Anxiety,-1.0,fear
+"Lost interest in hobbies and socializing completely.",9,Depression,-1.0,sadness
+"Sleep has become more elusive than ever before.",8,Insomnia,-1.0,fear
+"Can't handle the pressure from all directions anymore.",8,Stress,-1.0,fear
+"Finding new strength in facing daily challenges.",6,Positive Outlook,1.0,joy
+"My career path feels like a maze without an exit.",7,Career Confusion,-1.0,sadness
+"Every headache feels like it could be something serious.",7,Health Anxiety,-1.0,sadness
+"Counting calories has taken over my daily thoughts.",8,Eating Disorder,-1.0,joy
+"Simple decisions paralyze me with uncertainty now.",6,Anxiety,-1.0,joy
+"Each day feels heavier than the last to bear.",9,Depression,-1.0,sadness
+"Lying awake wondering if sleep will ever come.",8,Insomnia,-1.0,fear
+"The weight of expectations is crushing my spirit.",8,Stress,-1.0,fear
+"Starting to see light at the end of the tunnel.",5,Positive Outlook,1.0,joy
+"Everyone seems more successful in their careers than me.",7,Career Confusion,-1.0,joy
+"My health worries are consuming all my mental energy.",8,Health Anxiety,-1.0,fear
+"Feel guilty about every meal I eat nowadays.",8,Eating Disorder,-1.0,sadness
+"Constant worry about things I can't control.",7,Anxiety,-1.0,fear
+"The simplest tasks feel like massive undertakings.",9,Depression,-1.0,joy
+"Night time anxiety keeps me from falling asleep.",8,Insomnia,-1.0,fear
+"Work-life balance seems impossible to achieve.",7,Stress,-1.0,sadness
+"Taking small steps toward a more positive future.",6,Positive Outlook,1.0,joy
+"Doubting every career decision I've ever made.",7,Career Confusion,-1.0,fear
+"My health concerns are affecting my daily life.",7,Health Anxiety,-1.0,fear
+"Struggling with body image and food choices daily.",8,Eating Disorder,-1.0,sadness
+"Fear of failure keeps me from trying new things.",7,Anxiety,-1.0,fear
+"Finding it hard to care about anything anymore.",9,Depression,-1.0,sadness
+"Sleep has become a distant memory lately.",8,Insomnia,-1.0,sadness
+"Feeling overwhelmed by daily responsibilities.",8,Stress,-1.0,surprise
+"Each day brings new hope and possibilities.",6,Positive Outlook,1.0,joy
+"Confused about which career path to follow.",6,Career Confusion,0.0,fear
+"Constantly monitoring my body for symptoms.",7,Health Anxiety,-1.0,fear
+"The thought of eating makes me extremely anxious.",8,Eating Disorder,-1.0,fear
+"Worry consumes most of my waking thoughts.",7,Anxiety,-1.0,fear
+"Can't remember what happiness feels like anymore.",9,Depression,-1.0,joy
+"Anxiety keeps me awake most nights now.",8,Insomnia,-1.0,fear
+"Everything feels like too much to handle.",8,Stress,-1.0,sadness
+"Making progress in small but meaningful ways.",5,Positive Outlook,1.0,joy
+"Career uncertainty keeps me up at night.",7,Career Confusion,-1.0,fear
+"Always preparing for the worst health scenarios.",8,Health Anxiety,-1.0,fear
+"Food has become a source of constant stress.",8,Eating Disorder,-1.0,anger
+"Simple tasks trigger overwhelming anxiety.",7,Anxiety,-1.0,fear
+"The world feels colorless and meaningless now.",9,Depression,-1.0,sadness
+"Haven't had a full night's sleep in weeks.",9,Insomnia,-1.0,fear
+"Pressure from all sides is becoming unbearable.",8,Stress,-1.0,fear
+"Finally feeling like myself again slowly.",5,Positive Outlook,1.0,love
+"Questioning all my professional choices lately.",6,Career Confusion,-1.0,fear
+"Health fears dominate my daily thoughts.",8,Health Anxiety,-1.0,fear
+"Meal times have become moments of panic.",9,Eating Disorder,-1.0,fear
+"Constant worry affects my concentration badly.",7,Anxiety,-1.0,fear
+"Life feels like it's lost all meaning lately.",9,Depression,-1.0,sadness
+"Sleep seems more distant with each passing night.",8,Insomnia,-1.0,sadness
+"Can't keep up with life's demands anymore.",8,Stress,-1.0,sadness
+"Each day brings small victories to celebrate.",6,Positive Outlook,1.0,joy
+"Feel like I'm on the wrong career path.",7,Career Confusion,-1.0,sadness
+"My health anxiety controls every decision.",8,Health Anxiety,-1.0,fear
+"Food has become an enemy I fight daily.",9,Eating Disorder,-1.0,anger
+"Worry has become my constant companion.",7,Anxiety,-1.0,fear
+"Depression clouds every moment of my day.",9,Depression,-1.0,sadness
+"Insomnia has taken over my life completely.",9,Insomnia,-1.0,fear
+"Stress follows me like a constant shadow.",8,Stress,-1.0,fear
+"Starting to see positive changes finally.",5,Positive Outlook,1.0,joy
+"Career indecision paralyzes my progress.",7,Career Confusion,-1.0,fear
+"Health worries occupy my mind constantly.",8,Health Anxiety,-1.0,fear
+"Eating has become a mathematical equation.",8,Eating Disorder,-1.0,joy
+"Anxiety dictates my daily routine now.",7,Anxiety,-1.0,fear
+"Everything requires enormous effort lately.",9,Depression,-1.0,fear
+"Sleep feels like a luxury I can't afford.",8,Insomnia,-1.0,joy
+"Daily pressures keep mounting endlessly.",8,Stress,-1.0,fear
+"Finding joy in little things again.",5,Positive Outlook,1.0,joy
+"Professional future seems uncertain always.",7,Career Confusion,-1.0,fear
+"Health concerns affect my every move.",8,Health Anxiety,-1.0,fear
+"Feel trapped in negative food thoughts.",9,Eating Disorder,-1.0,sadness
+"Worry has become my default state.",7,Anxiety,-1.0,fear
+"Lost all motivation for daily activities.",9,Depression,-1.0,sadness
+"Bedtime has become a battle nightly.",8,Insomnia,-1.0,fear
+"Can't handle any more pressure now.",8,Stress,-1.0,fear
+"Hope is returning to my life slowly.",5,Positive Outlook,1.0,joy
+"Career choices keep me second-guessing.",7,Career Confusion,-1.0,fear
+"Constant fear about my health status.",8,Health Anxiety,-1.0,fear
+"Food thoughts consume my entire day.",9,Eating Disorder,-1.0,joy
+"Anxiety controls my decision making.",7,Anxiety,-1.0,fear
+"Each day feels harder than the last.",9,Depression,-1.0,sadness
+"Sleep eludes me more each night.",8,Insomnia,-1.0,sadness
+"Life's demands feel overwhelming now.",8,Stress,-1.0,joy
+"Starting to feel more like myself.",5,Positive Outlook,1.0,joy
+"Career path seems increasingly unclear.",7,Career Confusion,-1.0,fear
+"Health worries dominate my thoughts.",8,Health Anxiety,-1.0,fear
+"Eating has become a daily struggle.",9,Eating Disorder,-1.0,sadness
+"Constant worry affects every aspect.",7,Anxiety,-1.0,fear
+"Nothing brings joy or pleasure now.",9,Depression,-1.0,joy
+"Night time anxiety keeps me awake.",8,Insomnia,-1.0,fear
+"Stress levels keep rising daily.",8,Stress,-1.0,fear
+"Small improvements give me hope.",5,Positive Outlook,1.0,joy
+"Professional future seems daunting.",7,Career Confusion,-1.0,fear
+"Always fearing the worst health-wise.",8,Health Anxiety,-1.0,fear
+"Can't enjoy food without guilt anymore.",9,Eating Disorder,-1.0,joy
+"Anxiety controls my daily choices.",7,Anxiety,-1.0,fear
+"Depression colors everything grey.",9,Depression,-1.0,sadness
+"Sleep seems impossible these days.",8,Insomnia,-1.0,sadness
+"Everything feels overwhelming lately.",8,Stress,-1.0,joy
+"Recovery seems possible finally.",5,Positive Outlook,1.0,joy
+"Career decisions paralyze me completely.",7,Career Confusion,-1.0,fear
+"I can't stop checking my blood pressure every hour. The constant worry about my health is overwhelming me.",8,Health Anxiety,-1.0,fear
+"My appetite has completely disappeared. I feel guilty even thinking about food these days.",9,Eating Disorder,-1.0,sadness
+"The upcoming presentation keeps me up at night. My thoughts won't stop racing about all possible scenarios.",7,Anxiety,-1.0,fear
+"Haven't left my room in days. Everything feels meaningless, and I can't find joy in things anymore.",9,Depression,-1.0,sadness
+"Tossing and turning every night, counting hours until sunrise. Sleep feels like a distant memory.",8,Insomnia,-1.0,sadness
+"Work deadlines are piling up, and I feel completely overwhelmed. Can't seem to catch a breath.",7,Stress,-1.0,surprise
+"Started a new morning routine, and I'm already feeling more energetic. Small wins feel meaningful.",6,Positive Outlook,1.0,joy
+"Unsure if I should switch careers or stay put. The uncertainty of my professional path troubles me.",6,Career Confusion,-1.0,fear
+"My heart races whenever I feel slight discomfort. I'm constantly googling symptoms and feeling worse.",7,Health Anxiety,-1.0,sadness
+"I measure every calorie and feel anxious about eating in public. It's taking over my thoughts.",8,Eating Disorder,-1.0,fear
+"Walking through crowds makes my chest tight. Simple errands feel like massive challenges now.",6,Anxiety,-1.0,joy
+"Finding it hard to concentrate or care about anything. Days blur together without purpose.",8,Depression,-1.0,sadness
+"Even when exhausted, my mind won't quiet down. Three hours of sleep is becoming normal.",9,Insomnia,-1.0,sadness
+"Family expectations and work pressure are crushing me. I feel like I'm failing everyone.",8,Stress,-1.0,sadness
+"Started volunteering at an animal shelter. It gives me purpose and joy each weekend.",7,Positive Outlook,1.0,joy
+"Stuck between following my passion or choosing a stable career. The decision paralyzes me.",7,Career Confusion,-1.0,fear
+"Started meditation and feel more balanced. My thoughts are clearer, and I'm sleeping better.",5,Positive Outlook,1.0,joy
+"The doctor said I'm healthy, but I keep worrying about undiagnosed conditions.",6,Health Anxiety,-1.0,joy
+"Skipping meals has become a habit. I feel a mix of pride and shame about losing weight.",7,Eating Disorder,-1.0,joy
+"Meeting new people makes me nervous, but I'm learning to manage these feelings better.",5,Anxiety,0.0,fear
+"Recently started journaling, and it helps lift the heavy feeling in my chest.",4,Depression,0.0,sadness
+"Developed a bedtime routine that's slowly helping. Some nights are better than others.",5,Insomnia,0.0,joy
+"Learning to set boundaries at work. Still stressed but handling it better than before.",6,Stress,0.0,anger
+"Each day brings new opportunities. I'm excited about what the future holds.",8,Positive Outlook,1.0,joy
+"Exploring different career options makes me both excited and nervous about possibilities.",5,Career Confusion,0.0,joy
+"Taking vitamins and exercising regularly has reduced my health worries significantly.",4,Health Anxiety,1.0,joy
+"Working with a nutritionist to develop a healthy relationship with food again.",5,Eating Disorder,1.0,joy
+"The breathing exercises my therapist taught me are helping with panic attacks.",4,Anxiety,1.0,fear
+"Started painting again after months. Colors are slowly coming back into my life.",3,Depression,1.0,joy
+"Found a natural sleep supplement that helps. Getting better rest most nights now.",4,Insomnia,1.0,joy
+"Prioritizing self-care and saying no when needed. Stress feels more manageable.",3,Stress,1.0,joy
+"Achieved my monthly goals and feeling proud. Small steps lead to big changes.",9,Positive Outlook,1.0,joy
+"Finally chose a career path that aligns with my values. Feeling more confident.",4,Career Confusion,1.0,joy
+"Every day I'm feeling very low, and it's affecting my ability to focus at work. The simplest tasks feel overwhelming, and I can't seem to find motivation to do anything productive.",8,Depression,-1.0,sadness
+"I feel hopeful lately about my recovery journey. The therapy sessions are making a difference, and I'm starting to see small improvements in how I handle daily challenges.",6,Positive Outlook,1.0,joy
+"Honestly, I can't sleep well, and it's taking a toll on my daily life. I keep tossing and turning all night, watching the clock tick by, wondering if I'll ever get proper rest again.",9,Insomnia,-1.0,joy
+"My mind feels like it's not processing food properly. Every meal brings anxiety and guilt. I spend hours planning what to eat, but end up skipping meals or eating very little.",8,Eating Disorder,-1.0,sadness
+"For a while now, I've been feeling much better about my career path. The new job opportunities seem promising, and I'm excited about the potential for growth in my field.",7,Career Confusion,1.0,joy
+"I think my mental state is feeling hopeful since starting meditation. The daily practice helps calm my racing thoughts, and I'm learning to manage stress better than before.",5,Positive Outlook,1.0,joy
+"It feels like I'm constantly worried about my health. Every small symptom sends me into a panic, and I can't stop googling medical conditions. The anxiety is overwhelming.",8,Health Anxiety,-1.0,fear
+"I've been experiencing severe anxiety lately. Simple tasks like grocery shopping or meeting friends trigger intense worry, and I'm finding it harder to control these feelings.",7,Anxiety,-1.0,sadness
+"Every day brings new stress about work deadlines and responsibilities. I feel overwhelmed by the constant pressure to perform, and it's affecting my mental and physical health.",8,Stress,-1.0,surprise
+"I can't stop thinking about food and calories. The constant monitoring and restriction are exhausting, but I feel panicked when I try to eat normally.",9,Eating Disorder,-1.0,fear
+"For a while now, I've been struggling with insomnia. Even when I'm exhausted, my mind races with thoughts, making it impossible to fall asleep or stay asleep through the night.",8,Insomnia,-1.0,sadness
+"I'm feeling more positive about life lately. The small changes I've made are starting to show results, and I'm beginning to enjoy activities that I used to love again.",6,Positive Outlook,1.0,joy
+"My health anxiety is getting worse each day. Every headache feels like something serious, and I'm constantly checking my body for symptoms of illness.",9,Health Anxiety,-1.0,sadness
+"The career uncertainty is becoming overwhelming. I feel stuck in my current role but scared to make a change, and watching others succeed makes me question my choices.",7,Career Confusion,-1.0,fear
+"Depression has been consuming my thoughts lately. Getting through each day feels like climbing a mountain, and I've lost interest in things that used to bring me joy.",9,Depression,-1.0,sadness
+"Work stress is affecting my sleep patterns severely. I lie awake worrying about deadlines and meetings, and when I do sleep, I have anxiety dreams about work.",8,Insomnia,-1.0,fear
+"The constant worry about my future is paralyzing. Every decision feels monumental, and I'm scared of making the wrong choice in my career or personal life.",7,Anxiety,-1.0,fear
+"I've noticed positive changes in my outlook recently. Therapy and self-care practices are helping me develop better coping mechanisms, and I feel more resilient.",5,Positive Outlook,1.0,joy
+"My eating patterns have become increasingly restrictive. I feel guilty about every meal, and the thought of eating in public brings intense anxiety and shame.",8,Eating Disorder,-1.0,sadness
+"The stress of balancing work and personal life is overwhelming. I feel like I'm failing at both, and the pressure to maintain everything is becoming unbearable.",9,Stress,-1.0,sadness
+"Every minor health symptom triggers intense anxiety. I spend hours researching online, convinced that something is seriously wrong, despite doctors saying I'm healthy.",8,Health Anxiety,-1.0,joy
+"I've been feeling lost in my career lately. Everyone else seems to have a clear path, while I'm still trying to figure out what I want to do with my life.",7,Career Confusion,-1.0,sadness
+"The depression makes it hard to maintain relationships. I've withdrawn from friends and family, and everyday tasks feel like massive obstacles to overcome.",9,Depression,-1.0,sadness
+"Sleep has become my biggest challenge. The anxiety about not sleeping makes it even harder to rest, creating a vicious cycle of exhaustion and worry.",8,Insomnia,-1.0,anger
+"My mind is constantly racing with worries about the future. Simple decisions become overwhelming, and I find myself overthinking every small interaction or choice.",7,Anxiety,-1.0,fear
+"I'm starting to feel more hopeful about recovery. The small victories are adding up, and I'm learning to celebrate progress rather than focusing on perfection.",6,Positive Outlook,1.0,joy
+"Food has become a source of constant stress. I calculate and measure everything, and the guilt after eating makes it hard to enjoy any social situations.",9,Eating Disorder,-1.0,sadness
+"The work pressure is becoming unbearable. Deadlines keep piling up, and I feel like I'm always behind, no matter how hard I try to catch up.",8,Stress,-1.0,sadness
+"Health-related thoughts consume most of my day. Every unusual sensation sends me into a panic, and I'm constantly seeking reassurance about my wellbeing.",8,Health Anxiety,-1.0,fear
+"Career decisions feel increasingly daunting. The fear of making the wrong choice paralyzes me, and I'm constantly questioning my professional worth.",7,Career Confusion,-1.0,fear
+"I feel completely overwhelmed by my upcoming exams. My mind races with anxiety about failing, even though I've been studying non-stop.",8,Anxiety,-1.0,fear
+"I haven't been able to sleep properly for days. The thoughts about my health keep me tossing and turning all night.",7,Health Anxiety,-1.0,joy
+"My eating patterns have become irregular lately. I skip meals frequently and feel guilty when I eat.",6,Eating Disorder,-1.0,sadness
+"The constant worry about my future career path is exhausting. I feel stuck and unsure about every decision.",7,Career Confusion,-1.0,fear
+"I've been feeling hopeful about my progress in therapy. Small steps are making a difference in my outlook.",8,Positive Outlook,1.0,joy
+"Every night, I lie awake counting hours until sunrise. My mind won't quiet down enough to rest.",9,Insomnia,-1.0,fear
+"The pressure at work is becoming unbearable. I feel like I'm constantly running on empty.",8,Stress,-1.0,sadness
+"Lately, everything feels gray and meaningless. I struggle to find joy in things I used to love.",9,Depression,-1.0,sadness
+"My health anxiety is through the roof. Every small body sensation sends me into a spiral of worry.",7,Health Anxiety,-1.0,fear
+"I feel incredibly grateful for my support system. Their presence makes everything more manageable.",9,Positive Outlook,1.0,joy
+"I can't stop comparing my eating habits to others. It's becoming an obsessive thought pattern.",8,Eating Disorder,-1.0,fear
+"The career uncertainty is paralyzing. I spend hours overthinking every possible path.",7,Career Confusion,-1.0,fear
+"My anxiety peaks during social situations. I constantly worry about others judging me.",8,Anxiety,-1.0,fear
+"Sleep has become my enemy. I dread bedtime because I know I'll just lie there awake.",9,Insomnia,-1.0,fear
+"The daily stress is affecting my concentration. Simple tasks feel overwhelming now.",6,Stress,-1.0,joy
+"There's a persistent emptiness that follows me everywhere. Even simple tasks feel impossible.",8,Depression,-1.0,sadness
+"I'm starting to see positive changes in my life. Each day brings new opportunities for growth.",7,Positive Outlook,1.0,joy
+"My mind won't stop racing about potential health issues. Every symptom feels catastrophic.",8,Health Anxiety,-1.0,sadness
+"Food has become a source of anxiety. I calculate and overthink every meal.",7,Eating Disorder,-1.0,fear
+"The pressure to figure out my career path is overwhelming. Everyone else seems so certain.",6,Career Confusion,-1.0,joy
+"I feel trapped in a cycle of anxious thoughts. They keep building up without release.",8,Anxiety,-1.0,fear
+"Another sleepless night makes everything harder. I'm exhausted but can't find rest.",9,Insomnia,-1.0,sadness
+"Work deadlines are piling up, and I feel like I'm drowning in responsibilities.",7,Stress,-1.0,sadness
+"The depression makes every day feel like walking through thick fog. Nothing brings joy anymore.",9,Depression,-1.0,sadness
+"I'm making progress in managing my thoughts. The future looks brighter now.",8,Positive Outlook,1.0,joy
+"My health worries consume most of my mental energy. Every twinge feels significant.",7,Health Anxiety,-1.0,joy
+"Mealtimes have become a battlefield of anxiety and guilt. I can't enjoy food anymore.",8,Eating Disorder,-1.0,sadness
+"The uncertainty about my professional future keeps me up at night. I feel lost.",7,Career Confusion,-1.0,sadness
+"Constant worry has become my default state. I can't remember how to relax.",8,Anxiety,-1.0,fear
+"Sleep feels like a distant memory. I'm trapped in this cycle of insomnia.",9,Insomnia,-1.0,sadness
+"The daily grind is wearing me down. Everything feels like an uphill battle.",7,Stress,-1.0,sadness
+"Some days, getting out of bed feels impossible. The weight of depression is crushing.",9,Depression,-1.0,sadness
+"I'm starting to believe in myself again. Small victories add up to meaningful change.",8,Positive Outlook,1.0,joy
+"Every unexplained pain sends me into a spiral of health anxiety. It's exhausting.",7,Health Anxiety,-1.0,sadness
+"I obsess over every calorie and meal choice. It's taking over my thoughts.",8,Eating Disorder,-1.0,joy
+"The pressure to choose the right career path is overwhelming. I feel stuck.",7,Career Confusion,-1.0,sadness
+"My anxiety makes simple decisions feel impossible. Everything seems threatening.",8,Anxiety,-1.0,sadness
+"Another restless night of tossing and turning. Sleep feels impossible to achieve.",9,Insomnia,-1.0,fear
+"The constant pressure is affecting my physical health now. I feel overwhelmed.",7,Stress,-1.0,surprise
+"Depression colors everything in shades of gray. Joy feels like a distant memory.",9,Depression,-1.0,sadness
+"I'm learning to appreciate small progress. Each day brings new possibilities.",8,Positive Outlook,1.0,joy
+"Health concerns dominate my thoughts. Every symptom feels like a serious threat.",7,Health Anxiety,-1.0,sadness
+"My relationship with food has become complicated. Every meal is a mental battle.",8,Eating Disorder,-1.0,sadness
+"Career decisions paralyze me with anxiety. Everyone else seems to have it figured out.",7,Career Confusion,-1.0,fear
+"Anxiety follows me like a shadow. Simple tasks become overwhelming challenges.",8,Anxiety,-1.0,fear
+"Sleep deprivation is affecting every aspect of my life. I can't break this cycle.",9,Insomnia,-1.0,sadness
+"The stress is becoming unbearable. I feel like I'm always on edge.",7,Stress,-1.0,sadness
+"Depression makes everything require extra effort. Simple tasks feel mountainous.",9,Depression,-1.0,anger
+"I'm seeing positive changes in my mindset. Hope is becoming more familiar.",8,Positive Outlook,1.0,joy
+"My health anxiety spikes with every news article about illness. It's paralyzing.",7,Health Anxiety,-1.0,fear
+"Food thoughts consume my day. I can't stop obsessing over my eating patterns.",8,Eating Disorder,-1.0,sadness
+"The uncertainty about my career future is overwhelming. I feel directionless.",7,Career Confusion,-1.0,fear
+"Anxiety makes every interaction feel like a potential threat. I'm always alert.",8,Anxiety,-1.0,fear
+"Insomnia has become my constant companion. Nights are endless and lonely.",9,Insomnia,-1.0,sadness
+"Work stress follows me home. I can't seem to find any peace.",7,Stress,-1.0,joy
+"The weight of depression makes simple tasks feel impossible. Everything is heavy.",9,Depression,-1.0,sadness
+"I'm starting to see light at the end of the tunnel. Progress is happening.",8,Positive Outlook,1.0,joy
+"Health worries consume my thoughts. Every bodily sensation feels threatening.",7,Health Anxiety,-1.0,fear
+"Meal planning has become an obsessive ritual. Food controls my thoughts.",8,Eating Disorder,-1.0,anger
+"Career indecision weighs heavily on my mind. The future feels uncertain.",7,Career Confusion,-1.0,fear
+"My anxiety peaks in social situations. Every interaction feels draining.",8,Anxiety,-1.0,sadness
+"Sleep eludes me night after night. The exhaustion is overwhelming.",9,Insomnia,-1.0,sadness
+"The daily pressure keeps building. I feel like I might crack.",7,Stress,-1.0,fear
+"Depression makes everything feel meaningless. Joy seems unreachable.",9,Depression,-1.0,sadness
+"I'm discovering new strength in myself. Each day brings new hope.",8,Positive Outlook,1.0,joy
+"Even minor health symptoms trigger intense worry. It's exhausting.",7,Health Anxiety,-1.0,anger
+"Food guilt consumes my thoughts. Every meal feels like a battle.",8,Eating Disorder,-1.0,sadness
+"The pressure to choose the right career path is paralyzing. I feel lost.",7,Career Confusion,-1.0,sadness
+"Anxiety makes everyday tasks feel overwhelming. I'm constantly on edge.",8,Anxiety,-1.0,fear
+"Nights are endless when sleep won't come. The fatigue is crushing.",9,Insomnia,-1.0,sadness
+"Stress is affecting my physical and mental health. Everything feels heavy.",7,Stress,-1.0,sadness
+"The darkness of depression clouds everything. Simple tasks feel impossible.",9,Depression,-1.0,sadness
+"I'm learning to trust the healing process. Small victories matter.",8,Positive Outlook,1.0,joy
+"Health anxiety dominates my thoughts. Every sensation feels significant.",7,Health Anxiety,-1.0,joy
+"My relationship with food is becoming more complicated. I feel trapped.",8,Eating Disorder,-1.0,sadness
+"Career uncertainty keeps me awake at night. Everyone else seems settled.",7,Career Confusion,-1.0,joy
+"Anxiety makes me second-guess everything. The worry is constant.",8,Anxiety,-1.0,fear
+"Another sleepless night stretches endlessly. Rest feels impossible.",9,Insomnia,-1.0,sadness
+"The constant pressure is wearing me down. I feel overwhelmed.",7,Stress,-1.0,surprise
+"Depression makes each day feel like an uphill battle. Nothing brings joy.",9,Depression,-1.0,sadness
+"I'm beginning to see positive changes. Hope feels more real now.",8,Positive Outlook,1.0,joy
+"Health worries intrude on every moment. The anxiety is constant.",7,Health Anxiety,-1.0,fear
+"Eating has become a source of constant anxiety. I can't relax.",8,Eating Disorder,-1.0,fear
+"The fear of making wrong career choices paralyzes me. I feel stuck.",7,Career Confusion,-1.0,sadness
+"My anxiety spikes at unexpected moments. The fear is overwhelming.",8,Anxiety,-1.0,fear
+"Sleep has become an elusive dream. Nights are endless.",9,Insomnia,-1.0,fear
+"Daily stress is taking its toll. Everything feels like too much.",7,Stress,-1.0,sadness
+"Depression colors every experience in shades of gray. Joy feels distant.",9,Depression,-1.0,sadness
+"I'm noticing positive changes in my outlook. Recovery feels possible.",8,Positive Outlook,1.0,joy
+"Health anxiety consumes my thoughts. Every symptom feels threatening.",7,Health Anxiety,-1.0,fear
+"Food thoughts dominate my day. Every meal brings anxiety.",8,Eating Disorder,-1.0,fear
+"Career decisions feel overwhelming. The future seems uncertain.",7,Career Confusion,-1.0,fear
+"Anxiety makes simple tasks feel impossible. The worry never stops.",8,Anxiety,-1.0,sadness
+"Insomnia has become my nightly battle. Rest feels unreachable.",9,Insomnia,-1.0,sadness
+"The pressure keeps building. I feel like I'm at my limit.",7,Stress,-1.0,fear
+"Depression makes everything require extra effort. Simple tasks feel impossible.",9,Depression,-1.0,sadness
+"I'm finding strength in small progress. Each day brings hope.",8,Positive Outlook,1.0,joy
+"My health concerns overwhelm my thoughts. Every twinge brings worry.",7,Health Anxiety,-1.0,fear
+"Mealtimes have become a source of stress. I can't enjoy food.",8,Eating Disorder,-1.0,anger
+"The uncertainty about my future career weighs heavily. I feel lost.",7,Career Confusion,-1.0,sadness
+"Anxiety follows me everywhere. Simple tasks become overwhelming.",8,Anxiety,-1.0,fear
+"Sleep deprivation is affecting everything. Nights are endless.",9,Insomnia,-1.0,sadness
+"Stress has become my constant companion. I feel overwhelmed.",7,Stress,-1.0,fear
+"The weight of depression is crushing. Nothing brings joy anymore.",9,Depression,-1.0,sadness
+"I'm starting to see light ahead. Recovery feels more possible.",8,Positive Outlook,1.0,joy
+"Health anxiety dominates my daily life. Every sensation feels threatening.",7,Health Anxiety,-1.0,fear
+"My relationship with food is struggling. Every meal brings guilt.",8,Eating Disorder,-1.0,sadness
+"Career confusion keeps me awake at night. The future feels uncertain.",7,Career Confusion,-1.0,fear
+"I feel constantly worried about my health lately. Every small symptom makes me anxious.",8,Health Anxiety,-1.0,fear
+"I can't stop feeling hopeful about my progress. Each day brings new possibilities.",7,Positive Outlook,1.0,joy
+"It feels like I'm constantly feeling much better about managing my daily tasks.",6,Positive Outlook,1.0,joy
+"Sometimes, I think I'm confused about job prospects. The career path seems unclear.",7,Career Confusion,-1.0,fear
+"I feel constantly worried about eating properly. Food has become a source of anxiety.",8,Eating Disorder,-1.0,fear
+"I'm trying, but I'm still feeling very low. Nothing seems to bring joy anymore.",9,Depression,-1.0,sadness
+"Lately, I've been feeling much better about handling stress. Things are improving.",7,Positive Outlook,1.0,joy
+"It's been hard, I am extremely stressed about work deadlines.",8,Stress,-1.0,sadness
+"It feels like I'm constantly worried about my health issues.",7,Health Anxiety,-1.0,fear
+"It's been hard, I am feeling very low and disconnected lately.",9,Depression,-1.0,sadness
+"I feel constantly worried about my future career path.",7,Career Confusion,-1.0,fear
+"I can't seem to get proper sleep lately. My mind keeps racing.",8,Insomnia,-1.0,anger
+"Sometimes, I think I'm too anxious about everyday situations.",7,Anxiety,-1.0,fear
+"It feels like I'm constantly feeling better about my eating habits.",6,Positive Outlook,1.0,joy
+"I'm trying to manage my health anxiety, but it's overwhelming.",8,Health Anxiety,-1.0,fear
+"Recently, I've noticed I'm confused about which career direction to take.",7,Career Confusion,-1.0,fear
+"It's been hard, I keep worrying about every little thing.",8,Anxiety,-1.0,sadness
+"Lately, I've been struggling with my eating patterns.",7,Eating Disorder,-1.0,fear
+"I feel constantly tired but can't sleep at night.",9,Insomnia,-1.0,sadness
+"The stress is becoming unbearable these days.",8,Stress,-1.0,anger
+"I'm starting to feel more positive about life lately.",7,Positive Outlook,1.0,joy
+"My health concerns are taking over my thoughts completely.",8,Health Anxiety,-1.0,fear
+"I can't stop overthinking about my career choices.",7,Career Confusion,-1.0,fear
+"The depression makes everything feel heavy and difficult.",9,Depression,-1.0,sadness
+"My anxiety peaks during social situations lately.",8,Anxiety,-1.0,fear
+"I'm struggling with my relationship with food.",7,Eating Disorder,-1.0,sadness
+"Sleep has become an impossible task these days.",9,Insomnia,-1.0,sadness
+"Work pressure is making me extremely stressed.",8,Stress,-1.0,anger
+"I'm feeling more hopeful about my recovery journey.",7,Positive Outlook,1.0,joy
+"Every small health symptom makes me panic now.",8,Health Anxiety,-1.0,fear
+"I'm confused about which career path to choose.",7,Career Confusion,-1.0,fear
+"Nothing seems to bring joy or excitement anymore.",9,Depression,-1.0,joy
+"My anxiety makes simple tasks feel overwhelming.",8,Anxiety,-1.0,fear
+"I keep obsessing over my eating habits constantly.",7,Eating Disorder,-1.0,fear
+"Another sleepless night makes everything harder.",9,Insomnia,-1.0,fear
+"The daily stress is affecting my well-being.",8,Stress,-1.0,joy
+"I'm seeing positive changes in my life lately.",7,Positive Outlook,1.0,joy
+"Health worries consume most of my thoughts now.",8,Health Anxiety,-1.0,fear
+"Career decisions feel paralyzing and overwhelming.",7,Career Confusion,-1.0,fear
+"The depression makes each day feel like a struggle.",9,Depression,-1.0,sadness
+"Constant worry has become my default state.",8,Anxiety,-1.0,fear
+"Mealtimes have become a source of anxiety.",7,Eating Disorder,-1.0,fear
+"I lie awake counting hours until sunrise.",9,Insomnia,-1.0,fear
+"Everything feels too overwhelming to handle.",8,Stress,-1.0,fear
+"I'm making progress in my recovery journey.",7,Positive Outlook,1.0,joy
+"My health anxiety spikes with every twinge.",8,Health Anxiety,-1.0,fear
+"I feel lost in my career path lately.",7,Career Confusion,-1.0,sadness
+"Each day feels heavier than the last.",9,Depression,-1.0,sadness
+"Anxiety follows me like a constant shadow.",8,Anxiety,-1.0,fear
+"Food has become a complicated relationship.",7,Eating Disorder,-1.0,anger
+"Sleep feels like a distant memory now.",9,Insomnia,-1.0,sadness
+"The pressure keeps building up daily.",8,Stress,-1.0,fear
+"Things are starting to look brighter.",7,Positive Outlook,1.0,joy
+"Every body sensation triggers health worry.",8,Health Anxiety,-1.0,fear
+"Depression colors everything in gray shades.",9,Depression,-1.0,sadness
+"Simple decisions feel impossible with anxiety.",8,Anxiety,-1.0,sadness
+"I can't stop thinking about food constantly.",7,Eating Disorder,-1.0,joy
+"Insomnia is affecting my daily functioning.",9,Insomnia,-1.0,fear
+"Stress is taking a toll on my health.",8,Stress,-1.0,sadness
+"I'm finding new strength each day.",7,Positive Outlook,1.0,joy
+"Health concerns dominate my daily thoughts.",8,Health Anxiety,-1.0,fear
+"The future career path seems unclear.",7,Career Confusion,-1.0,fear
+"It's hard to find motivation anymore.",9,Depression,-1.0,sadness
+"Worry consumes most of my energy.",8,Anxiety,-1.0,fear
+"Eating has become a daily battle.",7,Eating Disorder,-1.0,sadness
+"Nights feel endless without sleep.",9,Insomnia,-1.0,joy
+"Daily pressures feel overwhelming.",8,Stress,-1.0,fear
+"Hope is becoming more familiar now.",7,Positive Outlook,1.0,joy
+"My health worries are escalating.",8,Health Anxiety,-1.0,fear
+"Career choices feel overwhelming.",7,Career Confusion,-1.0,fear
+"Everything requires extra effort now.",9,Depression,-1.0,joy
+"Anxiety makes everything feel threatening.",8,Anxiety,-1.0,fear
+"Food thoughts consume my day entirely.",7,Eating Disorder,-1.0,joy
+"Sleep deprivation is wearing me down.",9,Insomnia,-1.0,sadness
+"Stress follows me everywhere now.",8,Stress,-1.0,anger
+"I'm seeing positive changes finally.",7,Positive Outlook,1.0,joy
+"Health anxiety controls my thoughts.",8,Health Anxiety,-1.0,fear
+"I feel stuck in my career path.",7,Career Confusion,-1.0,sadness
+"Depression makes everything harder.",9,Depression,-1.0,sadness
+"Constant worry is exhausting me.",8,Anxiety,-1.0,anger
+"Meals bring anxiety and guilt.",7,Eating Disorder,-1.0,fear
+"I can't remember proper rest.",9,Insomnia,-1.0,sadness
+"Everything feels like too much.",8,Stress,-1.0,joy
+"Recovery feels more possible now.",7,Positive Outlook,1.0,joy
+"Health worries never seem to stop.",8,Health Anxiety,-1.0,fear
+"Career indecision weighs heavily.",7,Career Confusion,-1.0,fear
+"Each day feels like a struggle.",9,Depression,-1.0,sadness
+"Anxiety controls my daily life.",8,Anxiety,-1.0,fear
+"Food creates constant stress.",7,Eating Disorder,-1.0,anger
+"Sleep eludes me every night.",9,Insomnia,-1.0,sadness
+"Pressure keeps building up.",8,Stress,-1.0,fear
+"Things are improving gradually.",7,Positive Outlook,1.0,joy
+"Health fears dominate everything.",8,Health Anxiety,-1.0,fear
+"Career paths seem confusing.",7,Career Confusion,-1.0,fear
+"Nothing brings joy anymore.",9,Depression,-1.0,joy
+"Worry never seems to end.",8,Anxiety,-1.0,sadness
+"Eating causes daily stress.",7,Eating Disorder,-1.0,anger
+"Rest feels impossible now.",9,Insomnia,-1.0,sadness
+"Stress overwhelms me daily.",8,Stress,-1.0,fear
+"Hope grows stronger now.",7,Positive Outlook,1.0,joy
+"Health anxiety never stops.",8,Health Anxiety,-1.0,fear
+"Future seems uncertain.",7,Career Confusion,-1.0,fear
+"Depression feels endless.",9,Depression,-1.0,joy
+"Anxiety controls everything.",8,Anxiety,-1.0,fear
+"Food brings constant worry.",7,Eating Disorder,-1.0,fear
+"Sleepless nights continue.",9,Insomnia,-1.0,fear
+"Pressure keeps mounting.",8,Stress,-1.0,fear
+"Progress feels real now.",7,Positive Outlook,1.0,joy
+"It's getting worse, I've been extremely stressed about work deadlines and responsibilities.",9,Stress,-1.0,anger
+"Things have been tough, but I keep feeling happy and excited about my progress.",7,Positive Outlook,1.0,joy
+"It's getting worse, I've been not eating properly. Meals feel like a challenge.",8,Eating Disorder,-1.0,joy
+"These past few days, I've been feeling extremely stressed about my health.",9,Health Anxiety,-1.0,anger
+"It's been hard, I am constantly worried about every little thing.",8,Anxiety,-1.0,fear
+"I think my mental state is making me feel very anxious about everything.",7,Anxiety,-1.0,fear
+"It's getting worse, I've been constantly worried about my career path.",8,Career Confusion,-1.0,fear
+"My mind feels like it's constantly worried about my health symptoms.",9,Health Anxiety,-1.0,fear
+"Honestly, I'm not eating properly. Food has become a source of stress.",8,Eating Disorder,-1.0,anger
+"It's getting worse, I've been can't sleep well for weeks now.",9,Insomnia,-1.0,sadness
+"These days feel heavy, and I can't seem to find joy in anything.",8,Depression,-1.0,sadness
+"It's getting worse, the stress is affecting my daily activities.",9,Stress,-1.0,anger
+"My mind keeps racing with positive thoughts about future possibilities.",7,Positive Outlook,1.0,joy
+"I've been skipping meals more frequently lately. It's becoming a pattern.",8,Eating Disorder,-1.0,sadness
+"Health concerns keep overwhelming my thoughts throughout the day.",9,Health Anxiety,-1.0,fear
+"It's been tough, constant anxiety follows me everywhere.",8,Anxiety,-1.0,fear
+"Career decisions feel paralyzing, I can't seem to move forward.",7,Career Confusion,-1.0,fear
+"Sleep has become impossible, my mind won't quiet down.",9,Insomnia,-1.0,sadness
+"The weight of depression makes everything feel more difficult.",8,Depression,-1.0,sadness
+"Work pressure is becoming unbearable these days.",9,Stress,-1.0,fear
+"I'm seeing positive changes in my life, feeling more hopeful.",7,Positive Outlook,1.0,joy
+"My eating patterns have become irregular and concerning.",8,Eating Disorder,-1.0,fear
+"Health anxiety dominates my thoughts constantly now.",9,Health Anxiety,-1.0,fear
+"Simple tasks trigger overwhelming anxiety lately.",8,Anxiety,-1.0,fear
+"I feel lost about my career direction completely.",7,Career Confusion,-1.0,sadness
+"Nights are endless when sleep won't come.",9,Insomnia,-1.0,joy
+"Everything feels grey and meaningless these days.",8,Depression,-1.0,sadness
+"Daily stress is taking a toll on my wellbeing.",9,Stress,-1.0,sadness
+"I'm making progress and feeling more confident.",7,Positive Outlook,1.0,joy
+"Food has become a complicated relationship lately.",8,Eating Disorder,-1.0,anger
+"Every body sensation triggers health concerns.",9,Health Anxiety,-1.0,fear
+"Anxiety makes simple decisions feel impossible.",8,Anxiety,-1.0,sadness
+"Career uncertainty keeps me up at night worrying.",7,Career Confusion,-1.0,fear
+"Insomnia has become my constant companion.",9,Insomnia,-1.0,fear
+"Depression makes each day feel like a struggle.",8,Depression,-1.0,sadness
+"The pressure keeps building up every day.",9,Stress,-1.0,fear
+"Things are starting to look brighter finally.",7,Positive Outlook,1.0,joy
+"Meal times bring anxiety and guilt now.",8,Eating Disorder,-1.0,fear
+"Health worries consume most of my energy.",9,Health Anxiety,-1.0,fear
+"I feel stuck in my professional journey.",7,Career Confusion,-1.0,sadness
+"Sleep deprivation is affecting everything now.",9,Insomnia,-1.0,sadness
+"Nothing seems to bring joy anymore.",8,Depression,-1.0,joy
+"Stress follows me everywhere these days.",9,Stress,-1.0,anger
+"I'm discovering new strength each day.",7,Positive Outlook,1.0,joy
+"Eating has become a daily battle.",8,Eating Disorder,-1.0,sadness
+"My health anxiety spikes frequently.",9,Health Anxiety,-1.0,fear
+"Worry consumes most of my thoughts.",8,Anxiety,-1.0,fear
+"Future career paths seem unclear.",7,Career Confusion,-1.0,fear
+"Another sleepless night stretches endlessly.",9,Insomnia,-1.0,fear
+"Depression colors everything in grey.",8,Depression,-1.0,sadness
+"Everything feels overwhelming lately.",9,Stress,-1.0,joy
+"I can't maintain regular eating patterns.",8,Eating Disorder,-1.0,sadness
+"Health concerns dominate my daily life.",9,Health Anxiety,-1.0,fear
+"Anxiety follows me like a shadow.",8,Anxiety,-1.0,fear
+"Career decisions feel overwhelming now.",7,Career Confusion,-1.0,joy
+"Rest feels impossible to achieve.",9,Insomnia,-1.0,sadness
+"Each day feels heavier than before.",8,Depression,-1.0,sadness
+"The pressure never seems to end.",9,Stress,-1.0,fear
+"I'm feeling more optimistic lately.",7,Positive Outlook,1.0,joy
+"Food thoughts consume my day entirely.",8,Eating Disorder,-1.0,joy
+"Every symptom feels catastrophic now.",9,Health Anxiety,-1.0,sadness
+"Simple tasks feel overwhelming.",8,Anxiety,-1.0,joy
+"I'm confused about my career path.",7,Career Confusion,-1.0,fear
+"Sleep has become elusive lately.",9,Insomnia,-1.0,fear
+"Nothing motivates me anymore.",8,Depression,-1.0,joy
+"Daily pressures keep mounting.",9,Stress,-1.0,fear
+"Mealtimes bring constant anxiety.",8,Eating Disorder,-1.0,fear
+"Health fears control my thoughts.",9,Health Anxiety,-1.0,fear
+"Worry never seems to stop.",8,Anxiety,-1.0,sadness
+"Career choices feel paralyzing.",7,Career Confusion,-1.0,fear
+"Insomnia affects everything now.",9,Insomnia,-1.0,fear
+"Joy feels distant these days.",8,Depression,-1.0,sadness
+"Stress consumes my energy.",9,Stress,-1.0,anger
+"Things are improving steadily.",7,Positive Outlook,1.0,joy
+"Food creates constant stress.",8,Eating Disorder,-1.0,anger
+"Health worries never cease.",9,Health Anxiety,-1.0,fear
+"Anxiety controls daily life.",8,Anxiety,-1.0,fear
+"Future seems very unclear.",7,Career Confusion,-1.0,fear
+"Can't remember proper rest.",9,Insomnia,-1.0,sadness
+"Everything feels meaningless.",8,Depression,-1.0,sadness
+"Pressure keeps increasing.",9,Stress,-1.0,fear
+"Positive changes happening.",7,Positive Outlook,1.0,joy
+"Eating causes daily stress.",8,Eating Disorder,-1.0,anger
+"Health anxiety dominates.",9,Health Anxiety,-1.0,fear
+"Constant worry exhausts.",8,Anxiety,-1.0,fear
+"Career path feels uncertain.",7,Career Confusion,-1.0,fear
+"Sleep remains disturbed.",9,Insomnia,-1.0,sadness
+"Depression feels endless.",8,Depression,-1.0,joy
+"Stress overwhelms daily.",9,Stress,-1.0,fear
+"Progress feels genuine.",7,Positive Outlook,1.0,joy
+"Meals bring anxiety.",8,Eating Disorder,-1.0,fear
+"Health fears persist.",9,Health Anxiety,-1.0,fear
+"Anxiety never ends.",8,Anxiety,-1.0,fear
+"Career doubts linger.",7,Career Confusion,-1.0,fear
+"Sadness feels constant.",8,Depression,-1.0,joy
+"Pressure intensifies.",9,Stress,-1.0,fear
+"Hope grows stronger.",7,Positive Outlook,1.0,joy
+"Food worries increase.",8,Eating Disorder,-1.0,fear
+"Health concerns grow.",9,Health Anxiety,-1.0,fear
+"Worry intensifies.",8,Anxiety,-1.0,fear
+"Future uncertain.",7,Career Confusion,-1.0,fear
+"Rest eludes me.",9,Insomnia,-1.0,sadness
+"Despair deepens.",8,Depression,-1.0,sadness
+"Stress builds.",9,Stress,-1.0,anger
+"Hope rises.",7,Positive Outlook,1.0,joy
+"It's a struggle, I'm feeling very anxious about everyday situations lately.",8,Anxiety,-1.0,fear
+"Things have been tough, but I keep feeling hopeful about my progress.",7,Positive Outlook,1.0,joy
+"I'm trying, but I'm still can't sleep well. Nights feel endless.",9,Insomnia,-1.0,joy
+"I can't stop feeling very anxious about my health symptoms.",8,Health Anxiety,-1.0,fear
+"I'm trying, but I'm still feeling hopeful about my recovery journey.",7,Positive Outlook,1.0,joy
+"These past few days, I've been feeling very low and disconnected.",9,Depression,-1.0,sadness
+"I think my mental state is affecting my eating patterns significantly.",8,Eating Disorder,-1.0,sadness
+"It's a struggle, but I'm feeling happy and excited about career possibilities.",7,Positive Outlook,1.0,joy
+"Recently, I've noticed that I'm stressed about work deadlines.",8,Stress,-1.0,anger
+"I can't stop worrying about my career direction lately.",7,Career Confusion,-1.0,fear
+"It's a struggle, my health anxiety is becoming overwhelming.",9,Health Anxiety,-1.0,fear
+"Things have been tough, but I see positive changes happening.",7,Positive Outlook,1.0,joy
+"I'm trying to sleep, but my mind won't quiet down.",9,Insomnia,-1.0,sadness
+"Anxiety follows me everywhere throughout the day.",8,Anxiety,-1.0,fear
+"Recently noticed I'm feeling more hopeful about things.",7,Positive Outlook,1.0,joy
+"Depression makes everything feel heavier these days.",9,Depression,-1.0,sadness
+"My relationship with food has become complicated lately.",8,Eating Disorder,-1.0,sadness
+"Work pressure is becoming increasingly difficult to handle.",8,Stress,-1.0,fear
+"Career uncertainty keeps weighing on my mind constantly.",7,Career Confusion,-1.0,fear
+"Health worries consume most of my daily thoughts.",9,Health Anxiety,-1.0,fear
+"Finding new strength in my recovery journey daily.",7,Positive Outlook,1.0,joy
+"Sleep feels impossible to achieve these nights.",9,Insomnia,-1.0,sadness
+"Making progress with positive changes lately.",7,Positive Outlook,1.0,joy
+"Everything feels grey and meaningless now.",9,Depression,-1.0,sadness
+"Mealtimes have become a source of anxiety.",8,Eating Disorder,-1.0,fear
+"The daily stress is affecting my wellbeing.",8,Stress,-1.0,sadness
+"Feeling lost about my professional future.",7,Career Confusion,-1.0,sadness
+"Every health symptom triggers intense worry.",9,Health Anxiety,-1.0,fear
+"Seeing improvements in my daily outlook.",7,Positive Outlook,1.0,joy
+"Simple tasks trigger overwhelming anxiety.",8,Anxiety,-1.0,fear
+"Can't seem to find joy in anything.",9,Depression,-1.0,joy
+"Food thoughts consume my entire day.",8,Eating Disorder,-1.0,joy
+"Pressure keeps building up constantly.",8,Stress,-1.0,fear
+"Career decisions feel paralyzing now.",7,Career Confusion,-1.0,fear
+"Health anxiety dominates my thoughts.",9,Health Anxiety,-1.0,fear
+"Making positive strides in recovery.",7,Positive Outlook,1.0,joy
+"Worry never seems to stop now.",8,Anxiety,-1.0,sadness
+"Discovering new strength each day.",7,Positive Outlook,1.0,joy
+"Stress affects everything lately.",8,Stress,-1.0,sadness
+"Future career path seems unclear.",7,Career Confusion,-1.0,fear
+"Every bodily sensation worries me.",9,Health Anxiety,-1.0,fear
+"Finding joy in small progress.",7,Positive Outlook,1.0,joy
+"Insomnia affects daily functioning.",9,Insomnia,-1.0,fear
+"Anxiety makes decisions difficult.",8,Anxiety,-1.0,fear
+"Hope grows stronger each day.",7,Positive Outlook,1.0,joy
+"Nothing brings happiness lately.",9,Depression,-1.0,joy
+"Meals bring anxiety and guilt.",8,Eating Disorder,-1.0,fear
+"Daily pressures keep mounting.",8,Stress,-1.0,fear
+"Career confusion paralyzes me.",7,Career Confusion,-1.0,fear
+"Health concerns overwhelm me.",9,Health Anxiety,-1.0,fear
+"Positive changes happening now.",7,Positive Outlook,1.0,joy
+"Sleep deprivation exhausts me.",9,Insomnia,-1.0,sadness
+"Constant worry drains energy.",8,Anxiety,-1.0,fear
+"Recovery feels more possible.",7,Positive Outlook,1.0,joy
+"Depression weighs heavily now.",9,Depression,-1.0,sadness
+"Work pressure intensifies daily.",8,Stress,-1.0,fear
+"Professional future uncertain.",7,Career Confusion,-1.0,fear
+"Health fears control thoughts.",9,Health Anxiety,-1.0,fear
+"Seeing light ahead finally.",7,Positive Outlook,1.0,joy
+"Nights feel endlessly long.",9,Insomnia,-1.0,love
+"Progress feels more real.",7,Positive Outlook,1.0,joy
+"Sadness persists constantly.",9,Depression,-1.0,sadness
+"Eating patterns worry me.",8,Eating Disorder,-1.0,fear
+"Stress overwhelms everything.",8,Stress,-1.0,fear
+"Career doubts linger daily.",7,Career Confusion,-1.0,fear
+"Health anxiety never stops.",9,Health Anxiety,-1.0,fear
+"Hope becomes more familiar.",7,Positive Outlook,1.0,joy
+"Worry consumes my thoughts.",8,Anxiety,-1.0,fear
+"Change feels possible now.",7,Positive Outlook,1.0,joy
+"Everything feels meaningless.",9,Depression,-1.0,sadness
+"Food anxiety intensifies.",8,Eating Disorder,-1.0,fear
+"Pressure keeps building.",8,Stress,-1.0,fear
+"Health worries dominate.",9,Health Anxiety,-1.0,fear
+"Feeling more optimistic.",7,Positive Outlook,1.0,joy
+"Sleep remains elusive.",9,Insomnia,-1.0,fear
+"Constant fear persists.",8,Anxiety,-1.0,fear
+"Recovery progressing well.",7,Positive Outlook,1.0,joy
+"Despair feels endless.",9,Depression,-1.0,joy
+"Mealtimes bring stress.",8,Eating Disorder,-1.0,sadness
+"Stress levels rising.",8,Stress,-1.0,fear
+"Career path unclear.",7,Career Confusion,-1.0,fear
+"Insomnia continues.",9,Insomnia,-1.0,fear
+"Anxiety intensifies.",8,Anxiety,-1.0,fear
+"Progress continues.",7,Positive Outlook,1.0,joy
+"Depression deepens.",9,Depression,-1.0,sadness
+"Eating struggles persist.",8,Eating Disorder,-1.0,sadness
+"Pressure builds up.",8,Stress,-1.0,fear
+"Career doubts grow.",7,Career Confusion,-1.0,fear
+"Health worry increases.",9,Health Anxiety,-1.0,fear
+"Positivity emerges.",7,Positive Outlook,1.0,joy
+"Sleep evades me.",9,Insomnia,-1.0,fear
+"Worry dominates.",8,Anxiety,-1.0,fear
+"Hope strengthens.",7,Positive Outlook,1.0,joy
+"Sadness lingers.",9,Depression,-1.0,sadness
+"Food fears grow.",8,Eating Disorder,-1.0,fear
+"Stress escalates.",8,Stress,-1.0,anger
+"Future unclear.",7,Career Confusion,-1.0,fear
+"Health fears grow.",9,Health Anxiety,-1.0,fear
+"Joy increases.",7,Positive Outlook,1.0,joy
+"I've been feeling really down lately and I can't seem to shake this feeling of sadness.",8,Depression,-1.0,sadness
+"I'm constantly worried about my health, even though I know it's irrational.",7,Health Anxiety,-1.0,fear
+"I've been having trouble sleeping at night and I'm exhausted all day.",6,Insomnia,-1.0,sadness
+"I'm feeling overwhelmed with work and family responsibilities.",5,Stress,-1.0,surprise
+"I'm so excited about my upcoming trip! I can't wait to explore new places.",9,Positive Outlook,1.0,joy
+"I'm feeling a bit anxious about my job interview tomorrow.",4,Anxiety,-1.0,fear
+"I'm really proud of myself for sticking to my diet and exercise routine.",7,Positive Outlook,1.0,joy
+"I'm feeling a bit down about my career path. I'm not sure if I'm on the right track.",5,Career Confusion,-1.0,sadness
+"I'm so grateful for my friends and family. They always support me, no matter what.",10,Positive Outlook,1.0,joy
+"I'm feeling a bit uneasy about my eating habits lately.",3,Eating Disorder,-1.0,fear
+"I'm feeling really anxious about my upcoming exam. I can't stop worrying about failing.",8,Anxiety,-1.0,fear
+"I've been feeling down lately and I'm not sure why. I just feel empty inside.",7,Depression,-1.0,sadness
+"I've been having trouble sleeping at night. I toss and turn all night long.",6,Insomnia,-1.0,fear
+"I'm so stressed about work. I have a huge deadline coming up and I don't think I can handle it.",5,Stress,-1.0,anger
+"I'm really worried about my health. I've been feeling tired all the time and I'm not eating properly.",4,Health Anxiety,-1.0,sadness
+"I'm feeling really positive about my future. I'm excited to see what the future holds.",9,Positive Outlook,1.0,joy
+"I'm feeling really hopeful about my career. I'm working hard and I'm confident that I will be successful.",8,Career Confusion,1.0,joy
+"I'm confused about what I want to do with my life. I'm not sure what my passion is.",6,Career Confusion,0.0,fear
+"I'm feeling really lost and alone. I don't know who to turn to for help.",7,Depression,-1.0,sadness
+"I've been feeling a bit down about my eating habits lately.",3,Eating Disorder,-1.0,sadness
+"I'm feeling a bit anxious about starting a new job.",4,Anxiety,-1.0,fear
+"I'm really proud of myself for overcoming my fears.",8,Positive Outlook,1.0,joy
+"I'm feeling a bit overwhelmed with schoolwork.",5,Stress,-1.0,surprise
+"I'm so excited to go on vacation with my friends.",9,Positive Outlook,1.0,joy
+"I'm feeling a bit down about my love life.",4,Depression,-1.0,sadness
+"I'm really worried about my financial situation.",7,Stress,-1.0,fear
+"I'm feeling a bit lost and confused about my future.",5,Career Confusion,0.0,sadness
+"I'm so grateful for my good health.",10,Positive Outlook,1.0,joy
+"I'm feeling a bit anxious about public speaking.",3,Anxiety,-1.0,fear
+"I'm feeling really down about a recent breakup.",8,Depression,-1.0,sadness
+"I'm so excited to try a new hobby.",9,Positive Outlook,1.0,joy
+"I'm feeling a bit overwhelmed with household chores.",4,Stress,-1.0,surprise
+"I'm really proud of myself for learning a new skill.",7,Positive Outlook,1.0,joy
+"I'm feeling a bit down about my appearance.",5,Eating Disorder,-1.0,sadness
+"I'm so grateful for my supportive family.",10,Positive Outlook,1.0,joy
+"I'm feeling a bit anxious about driving in the city.",3,Anxiety,-1.0,fear
+"I'm feeling really down about a recent argument with a friend.",8,Depression,-1.0,sadness
+"I'm so excited to start a new chapter in my life.",9,Positive Outlook,1.0,joy
+"I'm feeling a bit overwhelmed with work deadlines.",4,Stress,-1.0,surprise
+"I'm really proud of myself for setting and achieving goals.",7,Positive Outlook,1.0,joy
+"I'm feeling a bit down about my social life.",5,Depression,-1.0,sadness
+"I'm feeling a bit anxious about going to the doctor.",3,Health Anxiety,-1.0,fear
+"I'm feeling really down about a recent job loss.",8,Depression,-1.0,sadness
+"I'm so excited to travel to a new country.",9,Positive Outlook,1.0,joy
+"I'm feeling a bit overwhelmed with parenting responsibilities.",4,Stress,-1.0,surprise
+"I'm really proud of myself for being a good listener.",7,Positive Outlook,1.0,joy
+"I'm feeling a bit down about my lack of motivation.",5,Depression,-1.0,sadness
+"I'm so grateful for my loving partner.",10,Positive Outlook,1.0,joy
+"I'm feeling a bit anxious about my financial future.",3,Anxiety,-1.0,fear
+"I'm feeling really down about my recent breakup.",8,Depression,-1.0,sadness
+"I'm so excited to start a new project.",9,Positive Outlook,1.0,joy
+"I'm feeling a bit overwhelmed with school assignments.",4,Stress,-1.0,surprise
+"I'm really proud of myself for overcoming obstacles.",7,Positive Outlook,1.0,joy
+"I'm feeling a bit down about my body image.",5,Eating Disorder,-1.0,sadness
+"I'm so grateful for my supportive friends.",10,Positive Outlook,1.0,joy
+"I'm feeling a bit anxious about my upcoming presentation.",3,Anxiety,-1.0,fear
+"I'm feeling really down about my recent loss.",8,Depression,-1.0,sadness
+"I'm so excited to try a new recipe.",9,Positive Outlook,1.0,joy
+"I'm feeling a bit overwhelmed with household responsibilities that I can't seem to shake this feeling of sadness.",6,Stress,-1.0,surprise
+"I'm really proud of myself for sticking to my exercise routine.",7,Positive Outlook,1.0,joy
+"I'm so grateful for my friends and family. They always support me no matter what.",10,Positive Outlook,1.0,joy
+"Lately, I've been feeling a lot of anxiety about my health, even though I know it's irrational.",8,Health Anxiety,-1.0,anger
+"I've been feeling really down lately, and I can't seem to shake this feeling of sadness.",8,Depression,-1.0,sadness
+"I've been feeling constantly worried, and I don't know why.",7,Anxiety,-1.0,fear
+"I've been feeling much better lately, and I'm not sure why.",7,Positive Outlook,1.0,joy
+"I've been feeling really happy and excited lately, and I can't stop smiling.",9,Positive Outlook,1.0,joy
+"I'm feeling really happy and excited about the future.",8,Positive Outlook,1.0,joy
+"Things have been tough lately, but I'm feeling much better now.",7,Positive Outlook,1.0,joy
+"I've been having trouble sleeping at night, and I'm exhausted all day.",6,Insomnia,-1.0,sadness
+"Sometimes, I feel happy and excited, but other times I feel down.",5,Positive Outlook,0.0,joy
+"My mind has been racing lately, and I can't stop feeling anxious.",7,Anxiety,-1.0,fear
+"I've been feeling much better lately, and I'm more optimistic about the future.",8,Positive Outlook,1.0,joy
+"I've been feeling a bit down about my eating habits lately, and I'm worried about my weight.",4,Eating Disorder,-1.0,sadness
+"I'm feeling a bit anxious about starting my new job next week.",4,Anxiety,-1.0,fear
+"I'm really proud of myself for overcoming my fear of public speaking.",8,Positive Outlook,1.0,joy
+"I'm feeling a bit overwhelmed with schoolwork and extracurricular activities.",5,Stress,-1.0,surprise
+"I'm so excited to go on vacation with my friends next month.",9,Positive Outlook,1.0,joy
+"I've been feeling down about my love life lately, and I'm not sure what to do.",4,Depression,-1.0,sadness
+"I'm really worried about my financial situation, and I don't know how I'm going to make ends meet.",7,Stress,-1.0,fear
+"I'm feeling a bit lost and confused about my future career path.",5,Career Confusion,0.0,sadness
+"I'm so grateful for my good health and the people in my life.",10,Positive Outlook,1.0,joy
+"I'm feeling very low and things are really tough for me lately.",4,Depression,-1.0,sadness
+"I can't sleep well at night, and it's starting to worry me.",6,Insomnia,-1.0,joy
+"These past few days, I keep feeling anxious about little things.",7,Anxiety,-1.0,fear
+"I'm doing better lately and feeling more positive.",5,Positive Outlook,1.0,joy
+"I feel like I'm not eating properly, it's stressing me out.",6,Eating Disorder,-1.0,joy
+"I'm constantly worried about my health, especially these days.",8,Health Anxiety,-1.0,fear
+"Every day, I feel like I'm not able to keep up with my work.",7,Career Confusion,-1.0,sadness
+"I'm feeling a little better about myself these days.",3,Positive Outlook,1.0,joy
+"I can't stop worrying about everything going wrong.",9,Anxiety,-1.0,fear
+"I feel hopeful about my future and the goals I've set.",5,Positive Outlook,1.0,joy
+"I've been feeling more anxious about my job lately.",7,Stress,-1.0,fear
+"Sleeping has been difficult; I just can't get a full night's rest.",6,Insomnia,-1.0,sadness
+"I feel so excited about the new opportunities coming up.",4,Positive Outlook,1.0,joy
+"Sometimes I think my health isn't where it should be.",5,Health Anxiety,0.0,sadness
+"I'm not feeling my best and it's weighing on me.",7,Depression,-1.0,joy
+"I have been feeling very anxious and can't focus on things.",8,Anxiety,-1.0,fear
+"I feel like I've been eating okay lately.",4,Eating Disorder,0.0,joy
+"Honestly, I'm struggling with sleep, and it affects my day.",6,Insomnia,-1.0,sadness
+"Every day, I feel low and unmotivated.",8,Depression,-1.0,sadness
+"I'm struggling to keep up with my career goals, feeling lost.",7,Career Confusion,-1.0,sadness
+"I'm feeling anxious and it's hard to stay calm.",6,Anxiety,-1.0,fear
+"I can't sleep well and it's affecting my health.",7,Insomnia,-1.0,sadness
+"I feel hopeful about things and that keeps me going.",5,Positive Outlook,1.0,joy
+"I'm happy and excited about my new project.",4,Positive Outlook,1.0,joy
+"I can't stop feeling like I'm not doing enough.",8,Stress,-1.0,joy
+"These days, I'm worried about my health more than usual.",6,Health Anxiety,0.0,fear
+"Sometimes, I feel like I don't know where my career is heading.",5,Career Confusion,0.0,fear
+"I'm anxious every day about what might happen next.",9,Anxiety,-1.0,fear
+"Things have been tough, and I feel like I'm struggling.",7,Depression,-1.0,sadness
+"I feel positive about my health and how I'm taking care of myself.",5,Health Anxiety,1.0,joy
+"Sleep has been hard to come by lately.",7,Insomnia,-1.0,sadness
+"I feel excited to start this new journey.",4,Positive Outlook,1.0,joy
+"I'm feeling stressed about my workload, it's overwhelming.",8,Stress,-1.0,sadness
+"These days, I feel happy and grateful for small things.",4,Positive Outlook,1.0,joy
+"I think I'm not eating well, but it's not stressing me too much.",4,Eating Disorder,0.0,joy
+"I feel constant worry about my career decisions.",7,Career Confusion,-1.0,joy
+"I'm having trouble sleeping, and it's worrying me.",6,Insomnia,-1.0,fear
+"I feel good about myself and how I'm handling things.",4,Positive Outlook,1.0,joy
+"I keep feeling anxious every time I think about work.",7,Stress,-1.0,fear
+"Recently, I've been feeling more hopeful about life.",5,Positive Outlook,1.0,joy
+"I can't shake the feeling of worry about my health.",8,Health Anxiety,-1.0,fear
+"I feel happy and excited, life is good.",3,Positive Outlook,1.0,joy
+"I can't sleep, and I feel it's affecting my health.",7,Insomnia,-1.0,sadness
+"I'm feeling positive about my career and what's ahead.",4,Career Confusion,1.0,joy
+"These days, I'm feeling stressed about exams.",6,Stress,-1.0,sadness
+"I'm struggling to find the right path in my career.",7,Career Confusion,-1.0,sadness
+"I keep feeling hopeful for a better tomorrow.",5,Positive Outlook,1.0,joy
+"I'm not sure if I'm taking care of myself well enough.",5,Health Anxiety,0.0,joy
+"I am happy and it's showing in everything I do.",4,Positive Outlook,1.0,joy
+"I've been feeling very anxious about the future.",8,Anxiety,-1.0,fear
+"I feel low about my progress lately.",6,Depression,-1.0,sadness
+"I'm feeling very stressed with everything going on.",7,Stress,-1.0,sadness
+"Sometimes I'm not sure if I'm eating right.",5,Eating Disorder,0.0,joy
+"I'm feeling calm and optimistic about my health.",4,Health Anxiety,1.0,joy
+"I'm anxious and can't stop overthinking everything.",9,Anxiety,-1.0,fear
+"I feel positive that I'm on the right track.",4,Career Confusion,1.0,joy
+"I'm feeling very low, it's hard to be positive.",8,Depression,-1.0,sadness
+"I am happy and motivated to reach my goals.",3,Positive Outlook,1.0,joy
+"I feel hopeful but unsure of my next steps.",5,Career Confusion,0.0,joy
+"I can't seem to get enough rest these days.",7,Insomnia,-1.0,joy
+"I'm feeling more at ease with myself lately.",4,Positive Outlook,1.0,joy
+"I've been feeling better about my eating habits.",4,Eating Disorder,1.0,joy
+"I can't shake the stress of my responsibilities.",8,Stress,-1.0,sadness
+"I feel happy and I'm focusing on the positive.",4,Positive Outlook,1.0,joy
+"I feel constant anxiety about my health.",8,Health Anxiety,-1.0,fear
+"I'm worried about everything that could go wrong.",8,Anxiety,-1.0,fear
+"I feel hopeful about what the future holds.",4,Positive Outlook,1.0,joy
+"I feel like my health has been okay recently.",5,Health Anxiety,0.0,joy
+"I can't seem to focus well on my work.",7,Career Confusion,-1.0,joy
+"I feel good about where my health is right now.",4,Health Anxiety,1.0,joy
+"I'm stressed about my exams and not sure I can do well.",7,Stress,-1.0,anger
+"These days, I feel more hopeful about my career.",5,Career Confusion,1.0,joy
+"I feel like I'm not doing well enough in my career.",8,Career Confusion,-1.0,joy
+"I feel relaxed and positive lately.",3,Positive Outlook,1.0,joy
+"Honestly, I feel like I'm not sleeping well.",6,Insomnia,-1.0,joy
+"I feel positive and motivated to improve.",4,Positive Outlook,1.0,joy
+"I'm anxious about so many things I can't control.",8,Anxiety,-1.0,fear
+"I feel happy and grateful for my progress.",4,Positive Outlook,1.0,joy
+"I feel like my stress is manageable right now.",4,Stress,0.0,joy
+"I can't shake the feeling of being low these days.",8,Depression,-1.0,sadness
+"I'm happy with how things are going recently.",3,Positive Outlook,1.0,joy
+"I'm stressed out about my workload.",7,Stress,-1.0,anger
+"I've been feeling more at peace with myself.",4,Positive Outlook,1.0,joy
+"I'm feeling low about the things happening in my life.",7,Depression,-1.0,sadness
+"Sometimes, I wonder if I'm eating well.",4,Eating Disorder,0.0,joy
+"I feel low and can't seem to shake it.",8,Depression,-1.0,sadness
+"I feel stressed about everything I need to get done.",7,Stress,-1.0,anger
+"I feel hopeful and confident about my future.",4,Positive Outlook,1.0,joy
+"These days, my health feels okay.",5,Health Anxiety,0.0,joy
+"I am excited and happy to see where life takes me.",3,Positive Outlook,1.0,joy
+"I'm feeling really anxious about upcoming exams.",8,Anxiety,-1.0,fear
+"I'm struggling to find direction in my career.",7,Career Confusion,-1.0,sadness
+"Feeling happy and excited about what's next.",4,Positive Outlook,1.0,joy
+"I've been feeling really down these past few days.",8,Depression,-1.0,sadness
+"I think I'm not eating properly but I'll work on it.",4,Eating Disorder,0.0,joy
+"I think my mental state is feeling hopeful.",4,Positive Outlook,1.0,joy
+"It feels like I'm constantly unable to sleep well.",7,Insomnia,-1.0,joy
+"For a while now, I've been struggling with sleep.",6,Insomnia,-1.0,fear
+"I am feeling very anxious these days about everything.",8,Anxiety,-1.0,fear
+"I can't stop worrying about not eating properly.",6,Eating Disorder,-1.0,fear
+"It's getting worse, but I've been feeling hopeful at times.",5,Positive Outlook,0.0,joy
+"Things have been tough, I keep feeling very low.",7,Depression,-1.0,sadness
+"I can't stop feeling very low, it's hard to stay positive.",8,Depression,-1.0,sadness
+"These past few days, I've been feeling more hopeful.",4,Positive Outlook,1.0,joy
+"It's a struggle; I can't seem to sleep well at night.",7,Insomnia,-1.0,joy
+"I'm feeling anxious constantly and can't seem to relax.",8,Anxiety,-1.0,fear
+"These days, I feel hopeful about small improvements.",5,Positive Outlook,1.0,joy
+"I feel very low, and things are getting overwhelming.",8,Depression,-1.0,sadness
+"My health feels okay, but I worry about sleeping enough.",5,Health Anxiety,0.0,joy
+"I think I'm hopeful, but sleep still feels impossible.",6,Insomnia,0.0,sadness
+"Sometimes, it's tough, but I try to feel hopeful.",4,Positive Outlook,0.0,joy
+"I feel I can't stop this constant anxiety.",9,Anxiety,-1.0,fear
+"Every day I feel very low, and it's hard to manage.",8,Depression,-1.0,sadness
+"I am trying to stay hopeful despite feeling anxious.",5,Positive Outlook,0.0,fear
+"It's a struggle to sleep, my mind just won't rest.",7,Insomnia,-1.0,anger
+"I keep feeling hopeful, but it's hard to stay that way.",5,Positive Outlook,0.0,joy
+"I am constantly worried and can't stop feeling anxious.",8,Anxiety,-1.0,fear
+"My eating habits feel off; I can't stop worrying.",6,Eating Disorder,-1.0,sadness
+"I feel very low and it's hard to see the positive.",7,Depression,-1.0,sadness
+"Sometimes, I think I can't control my anxious thoughts.",8,Anxiety,-1.0,fear
+"I think I'm not eating properly, and it's stressing me.",5,Eating Disorder,-1.0,anger
+"Every day, I feel very low and can't break out of it.",9,Depression,-1.0,sadness
+"I feel hopeful some days, but then it feels harder again.",5,Positive Outlook,0.0,joy
+"My mind is always worried about my health lately.",6,Health Anxiety,-1.0,fear
+"I am feeling hopeful, but it comes and goes.",4,Positive Outlook,0.0,joy
+"Sleep is a struggle, and I'm constantly exhausted.",7,Insomnia,-1.0,sadness
+"I feel low often, but I want to feel hopeful.",6,Positive Outlook,0.0,sadness
+"I am very anxious, and it's hard to stay calm.",8,Anxiety,-1.0,fear
+"I am hopeful, but I'm struggling with anxiety as well.",5,Positive Outlook,0.0,joy
+"I feel low, like there's a weight I can't lift.",8,Depression,-1.0,sadness
+"These past few days, I've felt more hopeful.",4,Positive Outlook,1.0,joy
+"I am feeling anxious, and I don't know what to do.",7,Anxiety,-1.0,fear
+"I can't sleep well, and it's affecting my mood.",6,Insomnia,-1.0,joy
+"It feels like my health is slipping, and I worry.",5,Health Anxiety,-1.0,sadness
+"I feel hopeful, but sometimes I can't help feeling anxious.",5,Positive Outlook,0.0,joy
+"I feel I can't sleep well no matter what I do.",7,Insomnia,-1.0,joy
+"I am constantly worried and find it hard to relax.",8,Anxiety,-1.0,fear
+"Some days, I feel low and don't know why.",6,Depression,-1.0,sadness
+"I feel hopeful, but then I feel anxious again.",5,Positive Outlook,0.0,joy
+"I am always anxious, and it feels impossible to stop.",9,Anxiety,-1.0,fear
+"I can't stop worrying about my eating habits.",6,Eating Disorder,-1.0,fear
+"These days, I feel low often.",5,Depression,-1.0,sadness
+"It's a struggle; I can't seem to find peace.",7,Insomnia,-1.0,sadness
+"I'm trying to stay hopeful, but it's tough.",4,Positive Outlook,0.0,joy
+"My health feels off, but I don't know why.",5,Health Anxiety,0.0,sadness
+"I am hopeful some days, but it's hard to hold onto.",4,Positive Outlook,0.0,joy
+"I am feeling very anxious and can't relax.",8,Anxiety,-1.0,fear
+"I feel hopeful, but sometimes worry gets in the way.",5,Positive Outlook,0.0,joy
+"It's hard to sleep, and it stresses me out.",7,Insomnia,-1.0,sadness
+"I feel like I can't escape feeling anxious.",8,Anxiety,-1.0,fear
+"I am feeling hopeful, but it's an effort every day.",5,Positive Outlook,0.0,joy
+"I feel I can't stop feeling low some days.",7,Depression,-1.0,sadness
+"I worry about my health, but try to stay positive.",5,Health Anxiety,0.0,joy
+"I am anxious often, and I don't know how to change it.",8,Anxiety,-1.0,fear
+"I feel hopeful, but then sleep becomes a struggle.",5,Insomnia,0.0,joy
+"I can't stop worrying, but I try to stay calm.",7,Anxiety,0.0,fear
+"I feel low these days, and it's hard to see the light.",8,Depression,-1.0,sadness
+"I think I am eating okay, but I'm not sure.",4,Eating Disorder,0.0,joy
+"I feel hopeful despite everything going on.",5,Positive Outlook,1.0,joy
+"I feel low, but I try to feel better every day.",6,Depression,0.0,sadness
+"It's hard to sleep, and my mind won't calm down.",7,Insomnia,-1.0,sadness
+"I feel anxious, but hopeful too at times.",5,Anxiety,0.0,fear
+"I think I need to work on my eating habits.",5,Eating Disorder,0.0,sadness
+"I feel low, like I'm in a slump.",8,Depression,-1.0,sadness
+"I'm trying to stay hopeful, even with low days.",5,Positive Outlook,0.0,joy
+"I feel I can't control my anxious thoughts.",8,Anxiety,-1.0,fear
+"It's been tough, but I want to stay positive.",6,Positive Outlook,0.0,joy
+"I am feeling anxious and it's affecting my sleep.",7,Anxiety,-1.0,fear
+"I feel hopeful, and it keeps me going.",4,Positive Outlook,1.0,joy
+"It's been hard to eat well lately.",5,Eating Disorder,-1.0,sadness
+"I can't stop feeling low, and it feels constant.",8,Depression,-1.0,sadness
+"I feel hopeful, but some days it fades.",5,Positive Outlook,0.0,joy
+"It's hard to stop worrying, but I try to stay calm.",7,Anxiety,0.0,fear
+"I feel low, but I want to feel hopeful.",6,Positive Outlook,0.0,sadness
+"I think I'm eating better these days.",4,Eating Disorder,1.0,joy
+"I can't stop feeling anxious every day.",8,Anxiety,-1.0,fear
+"I am hopeful, and it's a good feeling.",4,Positive Outlook,1.0,joy
+"I feel anxious, but I try to manage it.",6,Anxiety,0.0,fear
+"It's been tough to sleep well lately.",7,Insomnia,-1.0,sadness
+"I feel low some days, but hopeful on others.",5,Positive Outlook,0.0,sadness
+"I think my mental state is extremely stressed.",9,Stress,-1.0,anger
+"It's getting worse; I've been worried about my health.",8,Health Anxiety,-1.0,fear
+"It's getting worse; I've been feeling happy and excited.",6,Positive Outlook,1.0,joy
+"It feels like I'm constantly not eating properly.",7,Eating Disorder,-1.0,joy
+"I feel worried about my health lately.",6,Health Anxiety,-1.0,fear
+"I'm trying, but I'm still not eating properly.",7,Eating Disorder,-1.0,joy
+"It's been hard, but I am feeling much better overall.",5,Positive Outlook,1.0,joy
+"I am struggling with sleep these days.",8,Insomnia,-1.0,sadness
+"Every day, I'm feeling much better than before.",4,Positive Outlook,1.0,joy
+"Things have been tough, and I keep feeling confused about my job.",7,Career Confusion,-1.0,fear
+"Every day I'm feeling very anxious, and it's hard to relax.",8,Anxiety,-1.0,fear
+"I feel my health is on my mind constantly these days.",6,Health Anxiety,-1.0,joy
+"I'm hopeful, but I can't stop worrying about my health.",5,Health Anxiety,0.0,joy
+"I'm trying to stay positive, but not eating properly is hard.",6,Eating Disorder,0.0,joy
+"I'm feeling a bit better, but my sleep is still off.",5,Insomnia,0.0,joy
+"I feel constantly anxious, like there's no break from it.",8,Anxiety,-1.0,fear
+"I'm very confused about my career path lately.",7,Career Confusion,-1.0,fear
+"I feel stressed and can't stop worrying.",8,Stress,-1.0,sadness
+"It's been hard, but I feel like I'm getting better.",5,Positive Outlook,0.0,joy
+"I am still anxious about my career and job options.",6,Career Confusion,0.0,fear
+"I feel worried about how my health is doing lately.",6,Health Anxiety,-1.0,fear
+"I am struggling, but I am hopeful.",5,Positive Outlook,0.0,sadness
+"It's been hard to eat well; I worry about it.",7,Eating Disorder,-1.0,sadness
+"I'm trying, but I feel confused about my next career steps.",6,Career Confusion,0.0,fear
+"I think my mental state is stressed with everything going on.",8,Stress,-1.0,sadness
+"I am constantly worried about my eating habits.",7,Eating Disorder,-1.0,fear
+"I feel hopeful despite the stress.",4,Positive Outlook,0.0,joy
+"It's hard to eat properly, and I worry.",6,Eating Disorder,-1.0,sadness
+"I feel anxious, and I can't seem to stop.",8,Anxiety,-1.0,fear
+"I'm feeling better overall, but sleep remains an issue.",5,Insomnia,0.0,joy
+"I am confused and feel lost about my job options.",7,Career Confusion,-1.0,sadness
+"I think my mental state is stressed because of work.",8,Stress,-1.0,sadness
+"It's getting worse; I'm very worried about health.",8,Health Anxiety,-1.0,fear
+"I feel happier but worried about my health.",5,Health Anxiety,0.0,joy
+"I am constantly stressed about my job situation.",7,Career Confusion,-1.0,anger
+"I'm feeling better some days, but still not sleeping well.",6,Insomnia,0.0,joy
+"I feel hopeful about my health, but I worry.",5,Health Anxiety,0.0,joy
+"I think I'm stressed about not sleeping well.",7,Insomnia,-1.0,anger
+"I feel anxious, but I'm trying to manage it better.",6,Anxiety,0.0,fear
+"I am stressed, and it's hard to relax.",8,Stress,-1.0,anger
+"I think I'm struggling to manage my health worries.",6,Health Anxiety,-1.0,sadness
+"I am feeling much better these days, which helps.",4,Positive Outlook,1.0,joy
+"I think my stress has been increasing lately.",8,Stress,-1.0,anger
+"It's getting worse, but I feel hopeful at times.",5,Positive Outlook,0.0,joy
+"I feel better these days, but eating is still hard.",5,Eating Disorder,0.0,joy
+"I'm feeling hopeful, but sleep is difficult.",5,Insomnia,0.0,joy
+"I think my health has been on my mind too much.",6,Health Anxiety,0.0,sadness
+"I feel stressed about my job and future.",7,Career Confusion,-1.0,anger
+"I am feeling better, but I still struggle with sleep.",5,Insomnia,0.0,joy
+"I feel confused about my career path these days.",6,Career Confusion,0.0,fear
+"I am hopeful about my future but still stressed.",6,Positive Outlook,0.0,joy
+"I think my stress level is high, but I'm managing.",7,Stress,0.0,joy
+"I'm still feeling anxious about my health.",7,Health Anxiety,-1.0,fear
+"I think I'm feeling better, but eating is still hard.",5,Eating Disorder,0.0,joy
+"I feel hopeful but still get confused about career.",5,Career Confusion,0.0,joy
+"It's been tough, but I feel better some days.",6,Positive Outlook,0.0,joy
+"I feel worried about my health, and it stresses me.",7,Health Anxiety,-1.0,fear
+"I am hopeful about my future career, but it's hard.",5,Career Confusion,0.0,joy
+"I feel anxious about my health, but it's manageable.",6,Health Anxiety,0.0,fear
+"I think I'm stressed because of my job situation.",7,Career Confusion,-1.0,anger
+"It feels like I'm stressed but hopeful too.",6,Positive Outlook,0.0,sadness
+"It's been hard to sleep and keep my mind at ease.",8,Insomnia,-1.0,sadness
+"I am feeling better about work, but still confused.",6,Career Confusion,0.0,fear
+"I think my eating habits need attention; it worries me.",6,Eating Disorder,0.0,fear
+"I'm feeling more hopeful these days, less anxious.",4,Positive Outlook,1.0,joy
+"I think my mental state is feeling slightly better.",5,Positive Outlook,0.0,joy
+"I feel anxious, but my outlook is improving.",5,Anxiety,0.0,fear
+"I think I'm still not eating well, and it worries me.",6,Eating Disorder,-1.0,joy
+"I feel worried about my health and stress often.",7,Health Anxiety,-1.0,fear
+"I am hopeful about feeling better soon.",4,Positive Outlook,1.0,joy
+"I think I'm confused about my future career path.",6,Career Confusion,0.0,fear
+"I feel hopeful, but my health worries remain.",5,Health Anxiety,0.0,joy
+"I am anxious, but it's slowly improving.",6,Anxiety,0.0,fear
+"I feel like my mental state is stressed but better.",6,Stress,0.0,sadness
+"I think I am hopeful about things getting better.",5,Positive Outlook,1.0,joy
+"I am feeling confused about my next steps in life.",6,Career Confusion,0.0,fear
+"I am feeling very hopeful despite the struggles.",5,Positive Outlook,1.0,joy
+"I think my mental state is extremely stressed, and I feel overwhelmed by the demands in my life right now.",9,Stress,-1.0,fear
+"It's getting worse; I've been increasingly worried about my health, and it feels like there's no relief in sight.",8,Health Anxiety,-1.0,sadness
+"It's getting worse, but at the same time, I feel a strange happiness and excitement, which is very confusing for me.",6,Positive Outlook,0.0,fear
+"It feels like I'm constantly struggling to maintain healthy eating habits, and it's weighing on my mind a lot.",7,Eating Disorder,-1.0,sadness
+"I feel more and more worried about my health lately, and it's hard to find any peace of mind.",7,Health Anxiety,-1.0,fear
+"I'm genuinely trying, but I'm still not managing to eat properly, and that worries me constantly.",7,Eating Disorder,-1.0,joy
+"It's been hard for me lately, but I can sense some small improvement; I feel a little better than before.",5,Positive Outlook,0.0,joy
+"I am having a tough time with my sleep patterns these days; it's been really hard to feel rested.",8,Insomnia,-1.0,joy
+"Every day I wake up feeling a little better than before, and it's giving me some hope for the future.",4,Positive Outlook,1.0,joy
+"Things have been really difficult, and I keep feeling a sense of confusion and doubt about my job and career path.",7,Career Confusion,-1.0,fear
+"Every day, I find myself feeling very anxious; I just can't seem to shake this feeling of dread.",8,Anxiety,-1.0,fear
+"I can't stop thinking about my health these days; it's like a constant worry that I can't escape.",6,Health Anxiety,-1.0,sadness
+"I'm doing my best to stay hopeful, but this constant worry about my health is making it really difficult to stay positive.",5,Health Anxiety,0.0,joy
+"I'm trying hard to stay positive, but the fact that I'm not eating well enough keeps pulling me down.",6,Eating Disorder,-1.0,joy
+"Even though I feel a bit better mentally, I still can't seem to get the rest I need at night.",5,Insomnia,0.0,joy
+"I feel like my anxiety is getting worse, like I can't find any real peace of mind no matter what I try.",8,Anxiety,-1.0,sadness
+"I'm feeling increasingly confused about what path to take in my career, and it's really stressful.",7,Career Confusion,-1.0,fear
+"I'm doing my best to manage, but the stress of everything going on feels relentless.",8,Stress,-1.0,anger
+"It constantly feels like I'm not able to maintain healthy eating habits, and it worries me more than I can explain.",7,Eating Disorder,-1.0,joy
+"I keep telling myself I'll feel better soon, but these health worries are hard to let go of.",6,Health Anxiety,-1.0,joy
+"I think my stress levels are high, but I'm trying to find moments of peace where I can.",7,Stress,0.0,joy
+"I'm trying to stay hopeful and feel better, but the sleep issues continue to bother me.",6,Insomnia,0.0,joy
+"I'm feeling anxious a lot of the time, but I'm hoping it will improve with time and effort.",6,Anxiety,0.0,fear
+"I am feeling quite hopeful, but I still feel a deep sense of confusion about my career and future.",5,Career Confusion,0.0,joy
+"It's been hard, but I'm doing my best to manage the things I can control and let go of what I can't.",5,Positive Outlook,0.0,joy
+"I'm doing my best to stay optimistic, but I feel like I'm barely managing to hold on.",7,Stress,-1.0,joy
+"I find myself constantly stressed, and it's affecting my energy levels and my ability to get things done.",8,Stress,-1.0,anger
+"It feels like I'm not able to eat properly at all, and this constant worry about it is exhausting.",6,Eating Disorder,-1.0,sadness
+"I think I'm doing better some days, but my sleep issues are still there, and it worries me.",5,Insomnia,0.0,joy
+"I find myself hopeful about my health some days, but other days, I'm just as worried as ever.",5,Health Anxiety,0.0,joy
+"I feel like my mental state is improving, but my eating habits are still concerning me.",6,Eating Disorder,0.0,joy
+"I'm genuinely confused about my job path, and I don't know if I'm on the right track at all.",6,Career Confusion,-1.0,fear
+"I'm finding it increasingly hard to focus because my health is always on my mind.",6,Health Anxiety,-1.0,sadness
+"It's difficult for me to feel positive when my sleep schedule is so inconsistent and exhausting.",7,Insomnia,-1.0,joy
+"I am doing my best to manage my career decisions, but the choices seem endless, and it's overwhelming.",6,Career Confusion,0.0,joy
+"I think my mental health is better than before, but I'm still not sleeping as well as I'd like.",5,Insomnia,0.0,joy
+"I'm starting to feel more hopeful, but there's still this nagging confusion about my future path.",5,Career Confusion,0.0,joy
+"It feels like my stress is almost too much to handle, but I'm trying to cope day by day.",8,Stress,-1.0,sadness
+"I think my health worries are taking over my mind, and it's affecting my day-to-day life.",7,Health Anxiety,-1.0,fear
+"I'm doing better, but I still can't manage to keep my eating habits in check.",6,Eating Disorder,0.0,joy
+"I feel some hope coming back, but my job situation feels like a huge weight on my shoulders.",6,Career Confusion,0.0,joy
+"I think I'm doing my best to manage everything, but the stress is getting harder to bear.",7,Stress,-1.0,joy
+"I feel a bit more hopeful lately, but I still can't find a clear direction for my future career.",5,Career Confusion,0.0,joy
+"I am finding it hard to stay calm about my health, but I try to stay hopeful.",5,Health Anxiety,0.0,joy
+"I'm really confused about my career, and it's adding to my stress levels day by day.",7,Career Confusion,-1.0,fear
+"I'm doing better mentally, but I can't stop thinking about my eating issues.",6,Eating Disorder,-1.0,joy
+"I think I'm stressed out from everything going on, but I'm managing as best as I can.",7,Stress,0.0,sadness
+"I'm hopeful things will improve, but my health remains a constant concern in the back of my mind.",6,Health Anxiety,0.0,joy
+"I am stressed, but I try to take things one step at a time.",7,Stress,0.0,anger
+"I'm anxious about my career path, and it's difficult to feel any certainty about it.",7,Career Confusion,-1.0,fear
+"I feel like I'm holding on to hope despite my ongoing worries.",5,Positive Outlook,0.0,joy
+"I think my eating habits need more attention, and it's hard to make any lasting changes.",6,Eating Disorder,0.0,sadness
+"I am feeling better these days, but there's still some way to go with my sleep and mental state.",5,Insomnia,0.0,joy
+"Sometimes, I think I'm not sleeping well at all, and it's affecting everything I do.",7,Insomnia,-1.0,joy
+"I don't know why, but sometimes, I just feel very anxious, like there's a weight on me I can't lift.",6,Anxiety,-1.0,fear
+"It's been hard lately; I feel lost when it comes to my job and unsure about what the future holds.",8,Career Confusion,-1.0,sadness
+"I'm genuinely happy and excited about life these days, which feels like a wonderful change.",4,Positive Outlook,1.0,joy
+"Sometimes, it feels like I'm extremely stressed, and I can't pinpoint exactly why.",7,Stress,-1.0,sadness
+"I feel extremely stressed these days; it's hard to focus on anything without that cloud over me.",8,Stress,-1.0,sadness
+"I'm really trying to keep myself feeling better, but I know I still have a way to go.",5,Positive Outlook,0.0,joy
+"It's strange, but things seem to be getting worse while I feel somewhat better in other ways.",5,Mixed Emotions,0.0,surprise
+"I think my mental state is improving, but there's still a lot I'm trying to work through.",6,Positive Outlook,0.0,joy
+"Honestly, I can't stop feeling anxious, no matter what I try to do to stay calm.",7,Anxiety,-1.0,fear
+"These past few days, I've noticed that I'm feeling better, and it gives me hope.",5,Positive Outlook,1.0,joy
+"Sometimes, I feel like I'm not sleeping as well as I should, and it's impacting my whole routine.",6,Insomnia,-1.0,joy
+"I keep thinking that I'm feeling more anxious than usual, and it's hard to find peace.",6,Anxiety,-1.0,fear
+"It's been tough trying to figure out my job situation; I'm honestly very confused about it.",7,Career Confusion,-1.0,fear
+"I feel genuinely happy and excited lately, and I hope this feeling sticks around.",4,Positive Outlook,1.0,joy
+"I have days where I feel extremely stressed for no apparent reason, and it's exhausting.",8,Stress,-1.0,sadness
+"I'm feeling a lot more stressed than usual, and I can't seem to shake it off.",7,Stress,-1.0,sadness
+"I'm making progress and feel somewhat better, even though it's not easy every day.",5,Positive Outlook,0.0,joy
+"I feel like I'm both better and worse, if that makes sense. I have good days and bad.",5,Mixed Emotions,0.0,joy
+"I think my mental health is in a better place, but there's still some uncertainty.",5,Positive Outlook,0.0,joy
+"Honestly, I've been feeling very anxious and can't find a way to settle my mind.",8,Anxiety,-1.0,fear
+"I keep wondering why I feel so anxious, and it's been taking a toll on me.",6,Anxiety,-1.0,fear
+"These past few days, I've felt much more at ease, and it's a welcome change.",4,Positive Outlook,1.0,joy
+"Sometimes, I feel like I'm struggling with sleep, and it's adding to my worries.",6,Insomnia,-1.0,sadness
+"I think I'm feeling more anxious than before, and it's hard to ignore the tension.",7,Anxiety,-1.0,fear
+"My job situation has me feeling quite lost and unsure about where to go next.",7,Career Confusion,-1.0,sadness
+"I'm feeling good these days; it's like I've found some peace after a long time.",4,Positive Outlook,1.0,joy
+"Sometimes, I can't figure out why I feel so stressed, but the feeling is always there.",7,Stress,-1.0,sadness
+"I feel a mix of emotions lately; some days I'm great, and others I'm feeling low.",6,Mixed Emotions,0.0,joy
+"I think I'm feeling slightly better, but there's still a lot that worries me.",5,Positive Outlook,0.0,joy
+"I'm doing my best to stay optimistic, even though I still have some anxiety.",5,Anxiety,0.0,joy
+"These days, I'm feeling a sense of calm I haven't felt in a while.",4,Positive Outlook,1.0,joy
+"I keep feeling worried about my future, especially when it comes to my career.",7,Career Confusion,-1.0,fear
+"It's a struggle, but I think I'm slowly managing to feel a bit better.",6,Positive Outlook,0.0,joy
+"I'm feeling anxious a lot of the time, and it's hard to break the cycle.",7,Anxiety,-1.0,fear
+"I'm feeling much better these days, and I'm starting to see things more clearly.",4,Positive Outlook,1.0,joy
+"Sometimes, I feel happy and excited about what's ahead, but other times, I feel lost.",5,Mixed Emotions,0.0,joy
+"I've been feeling confused about my career path, and it's been weighing on my mind a lot.",8,Career Confusion,-1.0,fear
+"It feels like I'm slowly finding some stability, even though things are still difficult.",5,Positive Outlook,0.0,sadness
+"I think I'm stressed out from everything happening, and it's becoming hard to manage.",8,Stress,-1.0,sadness
+"I feel hopeful some days, but my career uncertainties are still bothering me.",6,Career Confusion,0.0,joy
+"I think my mind is slowly finding a better place, but I still feel some doubt.",5,Positive Outlook,0.0,fear
+"Sometimes, I'm not sure if I'm happy or stressed; it's a weird balance.",6,Mixed Emotions,0.0,joy
+"I feel like my stress levels are really high, but I'm managing as best as I can.",7,Stress,0.0,joy
+"I think I'm doing better, but some days, my anxiety still hits me out of nowhere.",6,Anxiety,0.0,fear
+"I feel a lot of stress from my job search, and it's making me question my decisions.",7,Career Confusion,-1.0,sadness
+"I'm feeling a bit more relaxed these days, and I think it's helping my mental state.",4,Positive Outlook,1.0,joy
+"These days, I think I'm finding more peace, even though stress is always nearby.",5,Stress,0.0,joy
+"I'm feeling slightly more positive about things, even though the anxiety hasn't gone away.",5,Anxiety,0.0,joy
+"It's hard to find peace of mind when I'm so unsure about my future career.",8,Career Confusion,-1.0,fear
+"I'm doing well some days, but I still struggle with anxious thoughts that come and go.",6,Anxiety,0.0,fear
+"I think my mind is starting to feel lighter, but the stress is still there.",5,Positive Outlook,0.0,joy
+"I'm feeling more hopeful about the future, though some worries still linger.",4,Positive Outlook,0.0,joy
+"It feels like I'm slowly moving past some of my stress, but it's a gradual process.",5,Stress,0.0,joy
+"I'm getting through things day by day, but the stress feels overwhelming sometimes.",8,Stress,-1.0,joy
+"I've been staring at my phone constantly checking for symptoms. Every small pain makes me panic about serious illness.",8,Health Anxiety,-1.0,fear
+"My heart races whenever I feel a new body sensation. I've spent hours researching medical conditions online.",9,Health Anxiety,-1.0,joy
+"I check my pulse repeatedly throughout the day. The fear of having a hidden illness is overwhelming.",7,Health Anxiety,-1.0,fear
+"Looking at food makes me anxious. I've been counting every calorie and feeling guilty after meals.",8,Eating Disorder,-1.0,sadness
+"I skip meals frequently and feel proud when my stomach growls. Nobody understands why I can't just eat normally.",9,Eating Disorder,-1.0,joy
+"The thought of eating in public terrifies me. I've been making excuses to avoid family dinners.",7,Eating Disorder,-1.0,fear
+"My mind won't stop racing with worries about the future. Simple tasks feel overwhelming lately.",8,Anxiety,-1.0,joy
+"Social situations make my palms sweat. I've been canceling plans because the anxiety is too intense.",7,Anxiety,-1.0,anger
+"Everything feels heavy and meaningless lately. I can't find joy in activities I used to love.",9,Depression,-1.0,sadness
+"Getting out of bed has become a daily struggle. The simplest tasks feel like climbing a mountain.",8,Depression,-1.0,joy
+"I lie awake for hours, my thoughts spinning endlessly. Sleep feels impossible these days.",9,Insomnia,-1.0,sadness
+"The darkness feels suffocating at night. I watch the clock tick by, unable to rest.",8,Insomnia,-1.0,sadness
+"Work deadlines keep piling up, and I feel like I'm drowning. My shoulders are always tense.",9,Stress,-1.0,fear
+"The pressure to perform perfectly is crushing me. I can't remember the last time I felt relaxed.",8,Stress,-1.0,joy
+"Small steps forward each day make me hopeful. I'm starting to see light at the end of the tunnel.",7,Positive Outlook,1.0,joy
+"I'm proud of my progress in therapy. Things are slowly getting better.",6,Positive Outlook,1.0,joy
+"My career path feels like a maze. I question every professional decision I make.",8,Career Confusion,-1.0,fear
+"The thought of choosing the wrong career keeps me up at night. I feel lost professionally.",7,Career Confusion,-1.0,sadness
+"I obsessively monitor my blood pressure. Every twinge makes me think something's seriously wrong.",6,Health Anxiety,-1.0,fear
+"Food has become my enemy. I calculate and recalculate nutritional values constantly.",8,Eating Disorder,-1.0,anger
+"Meeting new people makes my heart race. I rehearse conversations in my head repeatedly.",7,Anxiety,-1.0,anger
+"Colors seem less vibrant lately. I feel like I'm watching life through a gray filter.",8,Depression,-1.0,sadness
+"My mind refuses to quiet down at bedtime. Every night is a battle with sleeplessness.",7,Insomnia,-1.0,sadness
+"Emails fill me with dread. Each notification brings a wave of stress.",6,Stress,-1.0,fear
+"I'm starting to appreciate small victories. Recovery is possible, one day at a time.",7,Positive Outlook,1.0,joy
+"The job market overwhelms me. I feel stuck between different career paths.",7,Career Confusion,-1.0,sadness
+"Each headache convinces me something's seriously wrong. I can't stop googling symptoms.",8,Health Anxiety,-1.0,fear
+"I meticulously weigh every portion. The scale controls my daily mood.",7,Eating Disorder,-1.0,joy
+"Crowds make me feel trapped. My breathing becomes shallow in public spaces.",8,Anxiety,-1.0,sadness
+"I fake smiles to avoid concerns. Inside, everything feels empty.",9,Depression,-1.0,sadness
+"Sleep has become my enemy. I dread going to bed, knowing I'll just lie there.",8,Insomnia,-1.0,fear
+"Deadlines loom like dark clouds. The pressure feels suffocating.",7,Stress,-1.0,fear
+"I'm learning to celebrate small wins. Today feels brighter than yesterday.",6,Positive Outlook,1.0,joy
+"My resume feels inadequate. I doubt every career choice I've made.",8,Career Confusion,-1.0,sadness
+"Every body sensation sends me into panic. I'm constantly monitoring my health.",7,Health Anxiety,-1.0,fear
+"Mealtimes fill me with anxiety. I push food around my plate to avoid eating.",8,Eating Disorder,-1.0,fear
+"Simple decisions paralyze me with worry. What-if scenarios consume my thoughts.",7,Anxiety,-1.0,fear
+"My energy has vanished completely. Daily tasks feel like massive challenges.",8,Depression,-1.0,joy
+"Night after night, sleep eludes me. My mind won't stop spinning.",7,Insomnia,-1.0,fear
+"The constant pressure makes my chest tight. I can't seem to catch a break.",8,Stress,-1.0,fear
+"Each day brings new hope. I'm slowly rebuilding my confidence.",6,Positive Outlook,1.0,joy
+"Job interviews terrify me. I feel lost about my professional future.",7,Career Confusion,-1.0,sadness
+"I've started doing gentle morning stretches. My body feels more energized lately.",6,Positive Outlook,1.0,joy
+"The mirror has become my enemy. I scrutinize every bite I take.",8,Eating Disorder,-1.0,fear
+"Panic attacks ambush me without warning. I feel like I'm losing control.",9,Anxiety,-1.0,sadness
+"Getting through each day feels like wading through mud. Everything takes extra effort.",8,Depression,-1.0,fear
+"My bedroom feels like a prison at night. Sleep anxiety controls my evenings.",7,Insomnia,-1.0,sadness
+"Work-life balance seems impossible. I'm constantly overwhelmed.",8,Stress,-1.0,fear
+"I'm finding new ways to cope. Small improvements give me strength.",7,Positive Outlook,1.0,joy
+"Choosing a career path feels impossible. I'm afraid of making the wrong choice.",8,Career Confusion,-1.0,fear
+"I spend hours reading about diseases online. Health concerns consume my thoughts.",7,Health Anxiety,-1.0,fear
+"The scale dictates my worth. I feel guilty after every meal.",9,Eating Disorder,-1.0,sadness
+"Social situations make me freeze up. I overthink every interaction.",7,Anxiety,-1.0,fear
+"Nothing brings joy anymore. I feel disconnected from everyone.",8,Depression,-1.0,sadness
+"My mind races when I try to sleep. Insomnia has become my constant companion.",8,Insomnia,-1.0,fear
+"Meeting deadlines feels impossible. The stress never seems to end.",7,Stress,-1.0,sadness
+"I'm starting to believe in myself again. Recovery is a journey worth taking.",6,Positive Outlook,1.0,joy
+"My career goals feel out of reach. I question my professional worth.",8,Career Confusion,-1.0,sadness
+"I obsess over minor physical symptoms. Health anxiety controls my daily life.",8,Health Anxiety,-1.0,joy
+"Food rules dominate my thoughts. I can't eat without feeling intense guilt.",9,Eating Disorder,-1.0,anger
+"Everyday situations trigger intense worry. My anxiety controls everything.",8,Anxiety,-1.0,fear
+"I've lost interest in everything I used to enjoy. Days blur together.",9,Depression,-1.0,sadness
+"Nighttime has become my enemy. Sleep feels like an impossible goal.",8,Insomnia,-1.0,sadness
+"The constant pressure makes me want to scream. Everything feels overwhelming.",9,Stress,-1.0,joy
+"Each day brings small victories. I'm proud of my progress.",6,Positive Outlook,1.0,joy
+"My professional future feels uncertain. Career decisions paralyze me.",7,Career Confusion,-1.0,fear
+"I check my temperature multiple times daily. Health worries consume me.",7,Health Anxiety,-1.0,fear
+"Eating in public terrifies me. I make excuses to avoid social meals.",8,Eating Disorder,-1.0,fear
+"Simple tasks trigger overwhelming anxiety. I feel constantly on edge.",7,Anxiety,-1.0,fear
+"Getting through the day feels impossible. Depression clouds everything.",9,Depression,-1.0,sadness
+"Hours pass as I stare at the ceiling. Sleep feels like a distant memory.",8,Insomnia,-1.0,sadness
+"Work stress follows me everywhere. I can't find peace.",7,Stress,-1.0,joy
+"I'm learning to trust the healing process. Hope grows stronger each day.",6,Positive Outlook,1.0,joy
+"Job applications feel pointless. I'm lost in my career path.",8,Career Confusion,-1.0,sadness
+"Medical websites have become my addiction. Every symptom terrifies me.",8,Health Anxiety,-1.0,fear
+"I hide my eating habits from everyone. Food has become my enemy.",9,Eating Disorder,-1.0,anger
+"Worry consumes my thoughts constantly. Anxiety controls my decisions.",8,Anxiety,-1.0,fear
+"The world feels colorless and empty. Depression drains all energy.",9,Depression,-1.0,sadness
+"Sleep anxiety haunts my nights. I dread bedtime approaching.",7,Insomnia,-1.0,fear
+"Stress makes my body tense constantly. I can't remember feeling relaxed.",8,Stress,-1.0,joy
+"Taking life one day at a time. I see progress in small steps.",6,Positive Outlook,1.0,joy
+"My career direction feels unclear. Professional choices overwhelm me.",7,Career Confusion,-1.0,fear
+"Regular symptoms feel catastrophic. Health concerns dominate my thoughts.",8,Health Anxiety,-1.0,sadness
+"Calorie counting consumes my day. I feel guilty about eating.",9,Eating Disorder,-1.0,sadness
+"Constant worry exhausts me. Anxiety never gives me peace.",8,Anxiety,-1.0,fear
+"Basic tasks feel insurmountable. Depression makes everything harder.",9,Depression,-1.0,sadness
+"Night brings dread of sleeplessness. Insomnia controls my life.",8,Insomnia,-1.0,fear
+"Pressure builds up endlessly. Stress affects every aspect of life.",7,Stress,-1.0,fear
+"Each day brings new strength. I'm growing through this journey.",6,Positive Outlook,1.0,joy
+"Career indecision paralyzes me. I question every professional move.",8,Career Confusion,-1.0,fear
+"Minor health issues trigger panic. I constantly fear serious illness.",7,Health Anxiety,-1.0,fear
+"Meal planning creates intense anxiety. Food thoughts never leave.",8,Eating Disorder,-1.0,fear
+"Social situations feel overwhelming. Anxiety dictates my choices.",7,Anxiety,-1.0,fear
+"Joy feels like a distant memory. Depression colors everything gray.",9,Depression,-1.0,sadness
+"Sleep feels like an impossible dream. Nights stretch endlessly.",8,Insomnia,-1.0,sadness
+"Daily tasks feel overwhelming. Stress never seems to end.",7,Stress,-1.0,joy
+"I'm discovering inner strength. Recovery shows me new possibilities.",6,Positive Outlook,1.0,joy
+"Professional goals seem unreachable. Career confusion clouds my judgment.",8,Career Confusion,-1.0,sadness
+"Every physical sensation worries me. Health anxiety rules my thoughts.",7,Health Anxiety,-1.0,fear
+"Food fills me with dread. Eating disorders control my life.",9,Eating Disorder,-1.0,fear
+"Constant worry drains my energy. Anxiety shadows every moment.",8,Anxiety,-1.0,fear
+"Simple pleasures feel meaningless now. Depression deepens daily.",9,Depression,-1.0,sadness
+"Restless nights stretch endlessly. Insomnia becomes more crushing.",8,Insomnia,-1.0,fear
+"Stress builds up relentlessly. I feel constantly overwhelmed.",7,Stress,-1.0,surprise
+"Hope grows stronger each day. I'm embracing recovery's journey.",6,Positive Outlook,1.0,joy
+"Career uncertainty haunts me. Professional choices seem impossible.",8,Career Confusion,-1.0,fear
+"Health concerns dominate my mind. Every symptom feels threatening.",7,Health Anxiety,-1.0,fear
+"Eating causes intense guilt. Food has become complicated.",8,Eating Disorder,-1.0,sadness
+"Worry follows me everywhere. Anxiety controls my daily life.",7,Anxiety,-1.0,fear
+"Everything feels heavy and meaningless. Depression consumes my days.",9,Depression,-1.0,sadness
+"Sleep deprivation torments me. Insomnia rules my nights.",8,Insomnia,-1.0,sadness
+"Pressure never releases its grip. Stress affects everything.",7,Stress,-1.0,fear
+"Small victories add up daily. Recovery becomes more visible.",6,Positive Outlook,1.0,joy
+"Job searching feels hopeless. Career direction remains unclear.",8,Career Confusion,-1.0,sadness
+"I've been feeling very low lately, can't seem to shake this heaviness in my chest.",7,Depression,-1.0,sadness
+"Every small task feels overwhelming. I keep feeling very anxious about everything.",8,Anxiety,-1.0,fear
+"Night after night, I can't sleep well. My mind won't stop racing with thoughts.",6,Insomnia,-1.0,joy
+"Food has become complicated. I'm not eating properly and feel guilty about meals.",7,Eating Disorder,-1.0,sadness
+"My career path seems unclear. I'm confused about job prospects and future directions.",6,Career Confusion,-1.0,fear
+"Health symptoms keep worrying me. I'm constantly checking my body for problems.",8,Health Anxiety,-1.0,fear
+"The pressure is crushing me. I've been feeling very stressed about everything.",7,Stress,-1.0,sadness
+"Small improvements each day give me hope. I'm starting to feel better.",5,Positive Outlook,1.0,joy
+"Depression weighs heavily on me. I don't know why I've been feeling so low.",9,Depression,-1.0,sadness
+"Social situations make me panic. I feel very anxious in crowds lately.",8,Anxiety,-1.0,fear
+"Sleep evades me completely. I can't sleep well no matter what I try.",7,Insomnia,-1.0,fear
+"Mealtimes are a struggle. I'm not eating properly and avoiding social dining.",8,Eating Disorder,-1.0,sadness
+"Job applications feel pointless. I'm confused about which career path to take.",7,Career Confusion,-1.0,sadness
+"Every headache terrifies me. I'm constantly worried about my health.",8,Health Anxiety,-1.0,fear
+"Work deadlines overwhelm me. I've been very stressed about keeping up.",6,Stress,-1.0,anger
+"I'm making progress slowly. Each day brings small victories.",4,Positive Outlook,1.0,joy
+"Getting out of bed feels impossible. I've been feeling very low for weeks.",9,Depression,-1.0,sadness
+"My heart races constantly. I feel very anxious without clear triggers.",7,Anxiety,-1.0,fear
+"Insomnia controls my life. I can't sleep well and it's affecting everything.",8,Insomnia,-1.0,fear
+"The scale dictates my mood. It's a struggle, I'm not eating properly.",9,Eating Disorder,-1.0,sadness
+"Professional decisions paralyze me. I'm confused about job prospects constantly.",6,Career Confusion,-1.0,fear
+"I obsess over health symptoms. Every twinge makes me panic.",7,Health Anxiety,-1.0,fear
+"Everything feels overwhelming. I've been very stressed about daily tasks.",8,Stress,-1.0,fear
+"I'm learning to cope better. Things are slowly improving.",5,Positive Outlook,1.0,joy
+"Depression clouds everything. I don't know why I feel so empty.",8,Depression,-1.0,sadness
+"Anxiety follows me everywhere. I feel very anxious about simple things.",7,Anxiety,-1.0,fear
+"Nights are endless battles. I can't sleep well and feel exhausted.",8,Insomnia,-1.0,sadness
+"Food fills me with dread. I'm not eating properly and hiding it.",9,Eating Disorder,-1.0,fear
+"My future feels uncertain. I'm confused about job prospects and choices.",7,Career Confusion,-1.0,fear
+"Health worries consume me. I'm constantly checking for symptoms.",8,Health Anxiety,-1.0,fear
+"Stress never leaves me. I've been feeling very overwhelmed lately.",7,Stress,-1.0,surprise
+"Each day gets a bit better. I'm starting to feel more hopeful.",4,Positive Outlook,1.0,joy
+"Everything feels meaningless. I've been feeling very low constantly.",9,Depression,-1.0,sadness
+"Simple tasks trigger panic. I feel very anxious about daily activities.",8,Anxiety,-1.0,fear
+"Sleep feels impossible. I can't sleep well and dread bedtime.",7,Insomnia,-1.0,sadness
+"Counting calories obsessively. I'm not eating properly anymore.",8,Eating Disorder,-1.0,joy
+"Career indecision haunts me. I'm confused about job prospects daily.",6,Career Confusion,-1.0,fear
+"Minor symptoms terrify me. Health anxiety controls my thoughts.",7,Health Anxiety,-1.0,fear
+"Pressure builds endlessly. I've been very stressed about everything.",8,Stress,-1.0,anger
+"Recovery seems possible now. I'm feeling more positive lately.",5,Positive Outlook,1.0,joy
+"The darkness won't lift. I've been feeling very low for months.",9,Depression,-1.0,sadness
+"Worry consumes my days. I feel very anxious most of the time.",8,Anxiety,-1.0,fear
+"Rest eludes me completely. I can't sleep well despite exhaustion.",7,Insomnia,-1.0,sadness
+"Meals cause intense anxiety. It's a struggle, I'm not eating properly.",9,Eating Disorder,-1.0,anger
+"Job searching feels hopeless. I'm confused about job prospects constantly.",7,Career Confusion,-1.0,sadness
+"Every pain seems serious. I'm constantly worried about illness.",8,Health Anxiety,-1.0,fear
+"Daily tasks overwhelm me. I've been very stressed about managing.",6,Stress,-1.0,anger
+"Hope grows stronger daily. Things are getting better slowly.",4,Positive Outlook,1.0,joy
+"Depression drains all energy. I don't know why I feel so down.",8,Depression,-1.0,sadness
+"Fear controls everything. I feel very anxious without reason.",7,Anxiety,-1.0,fear
+"Sleepless nights continue. I can't sleep well and feel desperate.",8,Insomnia,-1.0,sadness
+"Food rules control me. I'm not eating properly and feel trapped.",9,Eating Disorder,-1.0,fear
+"Professional future scares me. I'm confused about job prospects.",6,Career Confusion,-1.0,fear
+"Health concerns dominate. I'm constantly checking my symptoms.",7,Health Anxiety,-1.0,fear
+"Overwhelm never ends. I've been very stressed about life.",8,Stress,-1.0,sadness
+"Small wins add up. I'm feeling more optimistic lately.",5,Positive Outlook,1.0,joy
+"Sadness weighs me down. I've been feeling very low daily.",9,Depression,-1.0,sadness
+"Constant worry exhausts me. I feel very anxious all the time.",8,Anxiety,-1.0,fear
+"Sleep anxiety grows. I can't sleep well and feel hopeless.",7,Insomnia,-1.0,sadness
+"Eating causes guilt. It's a struggle, I'm not eating properly.",8,Eating Disorder,-1.0,sadness
+"Career path seems foggy. I'm confused about job prospects always.",7,Career Confusion,-1.0,fear
+"Body sensations frighten me. Health anxiety rules my life.",8,Health Anxiety,-1.0,fear
+"Stress builds relentlessly. I've been very overwhelmed lately.",7,Stress,-1.0,fear
+"Progress feels real now. I'm starting to feel better daily.",4,Positive Outlook,1.0,joy
+"Life feels colorless lately. I've been feeling very low and empty.",8,Depression,-1.0,sadness
+"My mind won't stop racing. I feel very anxious about tomorrow.",7,Anxiety,-1.0,fear
+"Another restless night passes. I can't sleep well and feel drained.",8,Insomnia,-1.0,sadness
+"Mealtimes are battles now. It's a struggle, I'm not eating properly.",9,Eating Disorder,-1.0,sadness
+"Every job posting overwhelms me. I'm confused about job prospects completely.",7,Career Confusion,-1.0,fear
+"Doctor visits terrify me. I'm constantly worried about test results.",8,Health Anxiety,-1.0,fear
+"Deadlines keep piling up. I've been very stressed about work.",7,Stress,-1.0,anger
+"Each therapy session helps. I'm making small improvements daily.",4,Positive Outlook,1.0,joy
+"Nothing brings joy anymore. I've been feeling very low constantly.",9,Depression,-1.0,sadness
+"Social media triggers panic. I feel very anxious checking notifications.",8,Anxiety,-1.0,fear
+"Night brings dread now. I can't sleep well despite being exhausted.",7,Insomnia,-1.0,sadness
+"Mirror reflections haunt me. I'm not eating properly and feel shame.",9,Eating Disorder,-1.0,sadness
+"Interviews paralyze me. I'm confused about job prospects and abilities.",6,Career Confusion,-1.0,fear
+"WebMD becomes addictive. Health anxiety controls my searches.",8,Health Anxiety,-1.0,anger
+"Tasks keep multiplying. I've been very stressed about managing.",7,Stress,-1.0,anger
+"Recovery seems possible. I'm feeling more hopeful each day.",5,Positive Outlook,1.0,joy
+"Mornings feel impossible. I've been feeling very low and stuck.",8,Depression,-1.0,sadness
+"Crowds overwhelm me completely. I feel very anxious in public.",9,Anxiety,-1.0,fear
+"Sleep medications don't help. I can't sleep well anymore.",8,Insomnia,-1.0,sadness
+"Food journal obsesses me. I'm not eating properly and tracking everything.",9,Eating Disorder,-1.0,fear
+"Career choices haunt me. I'm confused about job prospects daily.",7,Career Confusion,-1.0,fear
+"Symptoms online scare me. I'm constantly worried about diseases.",8,Health Anxiety,-1.0,fear
+"Emails trigger tension. I've been very stressed checking them.",6,Stress,-1.0,anger
+"Therapy brings clarity. I'm starting to understand myself better.",4,Positive Outlook,1.0,joy
+"Depression clouds everything. I don't know why I feel empty inside.",9,Depression,-1.0,sadness
+"Simple decisions paralyze me. I feel very anxious making choices.",8,Anxiety,-1.0,fear
+"Bedroom feels like prison. I can't sleep well in this space.",7,Insomnia,-1.0,joy
+"Portions control my thoughts. It's a struggle, I'm not eating properly.",9,Eating Disorder,-1.0,anger
+"LinkedIn feeds anxiety. I'm confused about job prospects seeing others.",7,Career Confusion,-1.0,fear
+"Body signals alarm me. Health anxiety interprets everything -1ly.",8,Health Anxiety,-1.0,fear
+"Meetings drain energy. I've been very stressed about presenting.",7,Stress,-1.0,anger
+"New coping skills help. I'm feeling more capable lately.",5,Positive Outlook,1.0,joy
+"Happiness feels distant. I've been feeling very low for weeks.",8,Depression,-1.0,sadness
+"Phone calls trigger panic. I feel very anxious answering them.",7,Anxiety,-1.0,fear
+"Dawn approaches again. I can't sleep well through another night.",8,Insomnia,-1.0,joy
+"Restaurant menus overwhelm. I'm not eating properly in public.",9,Eating Disorder,-1.0,anger
+"Resume gaps worry me. I'm confused about job prospects explaining them.",6,Career Confusion,-1.0,fear
+"Google symptoms constantly. I'm constantly worried about health.",8,Health Anxiety,-1.0,fear
+"To-do lists multiply. I've been very stressed about deadlines.",7,Stress,-1.0,anger
+"Support group helps. I'm discovering new strength daily.",4,Positive Outlook,1.0,joy
+"Days blur together. I've been feeling very low and lost.",9,Depression,-1.0,sadness
+"Future scenarios haunt me. I feel very anxious planning ahead.",8,Anxiety,-1.0,fear
+"Clock watching tortures me. I can't sleep well watching time.",7,Insomnia,-1.0,anger
+"Dinner invites terrify me. I'm not eating properly with others.",9,Eating Disorder,-1.0,fear
+"Industry changes confuse. I'm confused about job prospects now.",6,Career Confusion,-1.0,fear
+"Medical shows trigger me. I'm constantly worried watching them.",8,Health Anxiety,-1.0,fear
+"Work-life balance fails. I've been very stressed balancing everything.",7,Stress,-1.0,anger
+"Daily walks uplift me. I'm feeling more energetic lately.",4,Positive Outlook,1.0,joy
+"Motivation disappears daily. I've been feeling very low to start.",8,Depression,-1.0,sadness
+"Errands become mountains. I feel very anxious leaving home.",9,Anxiety,-1.0,fear
+"Midnight passes again. I can't sleep well despite trying.",8,Insomnia,-1.0,joy
+"Grocery shopping panics me. I'm not eating properly after shopping.",9,Eating Disorder,-1.0,fear
+"Applications overwhelm me. I'm confused about job prospects applying.",7,Career Confusion,-1.0,fear
+"Heart rate concerns me. Health anxiety spikes with palpitations.",8,Health Anxiety,-1.0,fear
+"Remote work drains me. I've been very stressed working alone.",6,Stress,-1.0,anger
+"Meditation brings peace. I'm learning to calm my mind.",4,Positive Outlook,1.0,joy
+"Weekends feel empty now. I've been feeling very low alone.",8,Depression,-1.0,sadness
+"Messages trigger worry. I feel very anxious reading them.",7,Anxiety,-1.0,fear
+"Dreams elude me nightly. I can't sleep well through darkness.",8,Insomnia,-1.0,sadness
+"Scale numbers control me. It's a struggle, I'm not eating properly.",9,Eating Disorder,-1.0,anger
+"Skills feel outdated now. I'm confused about job prospects upgrading.",6,Career Confusion,-1.0,fear
+"Pain triggers panic. I'm constantly worried about symptoms.",8,Health Anxiety,-1.0,fear
+"Client demands increase. I've been very stressed about delivery.",7,Stress,-1.0,anger
+"Friends support helps. I'm feeling more connected lately.",4,Positive Outlook,1.0,joy
+"Emotions feel numb now. I've been feeling very low inside.",9,Depression,-1.0,sadness
+"Change triggers anxiety. I feel very anxious about transitions.",8,Anxiety,-1.0,fear
+"Fatigue doesn't help. I can't sleep well being tired.",7,Insomnia,-1.0,sadness
+"Diet thoughts consume me. I'm not eating properly thinking food.",9,Eating Disorder,-1.0,anger
+"Market changes worry. I'm confused about job prospects ahead.",6,Career Confusion,-1.0,fear
+"Symptoms internet searches. I'm constantly worried researching health.",8,Health Anxiety,-1.0,fear
+"Project deadlines loom. I've been very stressed about timing.",7,Stress,-1.0,anger
+"Exercise lifts spirits. I'm finding new energy daily.",4,Positive Outlook,1.0,joy
+"Sadness fills mornings. I've been feeling very low waking.",8,Depression,-1.0,sadness
+"Responsibilities overwhelm me. I feel very anxious about tasks.",9,Anxiety,-1.0,fear
+"Quiet amplifies thoughts. I can't sleep well in silence.",8,Insomnia,-1.0,joy
+"Meal planning exhausts me. I'm not eating properly despite planning.",9,Eating Disorder,-1.0,sadness
+"Career path confuses. I'm confused about job prospects forward.",7,Career Confusion,-1.0,fear
+"Health news scares me. I'm constantly worried reading articles.",8,Health Anxiety,-1.0,fear
+"Expectations burden me. I've been very stressed meeting them.",6,Stress,-1.0,sadness
+"Progress feels possible. I'm seeing improvements slowly.",4,Positive Outlook,1.0,joy
+"Lately, I've been confused about which career path to take. Job applications feel overwhelming and directionless.",7,Career Confusion,-1.0,fear
+"My mind feels constantly worried about small health symptoms. Every twinge makes me panic.",8,Health Anxiety,-1.0,fear
+"Things are starting to look brighter. My mind feels like it's feeling much better lately.",4,Positive Outlook,1.0,joy
+"Each morning brings new hope. Every day I'm feeling more confident about recovery.",3,Positive Outlook,1.0,joy
+"My mind feels heavy and empty. I've been feeling very low for weeks now.",9,Depression,-1.0,sadness
+"For a while now, I've been obsessively checking my symptoms online.",8,Health Anxiety,-1.0,fear
+"Work deadlines keep piling up. It feels like I'm constantly extremely stressed.",7,Stress,-1.0,sadness
+"Lately, I've been constantly worried about eating in front of others.",8,Eating Disorder,-1.0,fear
+"Every minor pain scares me. It's a struggle, I'm worried about my health constantly.",7,Health Anxiety,-1.0,fear
+"Deadlines and meetings overwhelm me. My mind feels like it's extremely stressed.",8,Stress,-1.0,sadness
+"Career choices paralyze me. Lately, I've been confused about every job decision.",6,Career Confusion,-1.0,fear
+"My mind races with health fears. I think my mental state is constantly worried.",9,Health Anxiety,-1.0,fear
+"Therapy is helping significantly. My mind feels like it's feeling much better now.",4,Positive Outlook,1.0,joy
+"Recovery seems possible now. Every day I'm feeling hopeful about the future.",3,Positive Outlook,1.0,joy
+"Nothing brings joy anymore. My mind feels like it's feeling very low constantly.",9,Depression,-1.0,sadness
+"For a while now, I've been skipping meals and feeling guilty.",8,Eating Disorder,-1.0,sadness
+"Sleep feels impossible lately. It feels like I'm constantly extremely stressed.",7,Insomnia,-1.0,sadness
+"Anxiety follows me everywhere. Lately, I've been constantly worried about everything.",8,Anxiety,-1.0,fear
+"Food has become complicated. It's a struggle, I'm not eating properly anymore.",7,Eating Disorder,-1.0,sadness
+"Professional decisions overwhelm me. My mind feels like it's extremely confused.",8,Career Confusion,-1.0,fear
+"Job searching feels hopeless. Lately, I've been confused about my qualifications.",7,Career Confusion,-1.0,sadness
+"Health concerns consume me. I think my mental state is constantly worried.",8,Health Anxiety,-1.0,fear
+"Making progress in therapy. My mind feels like it's feeling much better weekly.",4,Positive Outlook,1.0,joy
+"Small victories add up. Every day I'm feeling hopeful about improvements.",3,Positive Outlook,1.0,joy
+"Depression weighs heavily. My mind feels like it's feeling very low daily.",9,Depression,-1.0,sadness
+"For a while now, I've been calculating every calorie obsessively.",8,Eating Disorder,-1.0,fear
+"Work pressure never ends. It feels like I'm constantly extremely stressed.",7,Stress,-1.0,sadness
+"Social situations terrify me. Lately, I've been constantly worried about interactions.",8,Anxiety,-1.0,fear
+"Sleep eludes me nightly. It's a struggle, I'm lying awake for hours.",7,Insomnia,-1.0,fear
+"Meetings drain my energy. My mind feels like it's extremely stressed.",8,Stress,-1.0,sadness
+"Industry changes confuse me. Lately, I've been confused about staying relevant.",6,Career Confusion,-1.0,fear
+"Every symptom scares me. I think my mental state is constantly worried.",9,Health Anxiety,-1.0,fear
+"Self-care is helping. My mind feels like it's feeling much better gradually.",4,Positive Outlook,1.0,joy
+"Hope grows stronger. Every day I'm feeling hopeful about my journey.",3,Positive Outlook,1.0,joy
+"Emptiness consumes me. My mind feels like it's feeling very low inside.",9,Depression,-1.0,sadness
+"For a while now, I've been avoiding social meals completely.",8,Eating Disorder,-1.0,sadness
+"Restless nights continue. It feels like I'm constantly extremely stressed.",7,Insomnia,-1.0,sadness
+"Worry never stops. Lately, I've been constantly worried about everything.",8,Anxiety,-1.0,fear
+"Food thoughts dominate. It's a struggle, I'm fighting with meals daily.",7,Eating Disorder,-1.0,anger
+"Career path seems unclear. My mind feels like it's extremely confused.",8,Career Confusion,-1.0,fear
+"Job market overwhelms me. Lately, I've been confused about my direction.",7,Career Confusion,-1.0,fear
+"Body sensations frighten me. I think my mental state is constantly worried.",8,Health Anxiety,-1.0,fear
+"Recovery feels possible. My mind feels like it's feeling much better now.",4,Positive Outlook,1.0,joy
+"Daily progress shows. Every day I'm feeling hopeful about changes.",3,Positive Outlook,1.0,joy
+"Sadness never lifts. My mind feels like it's feeling very low constantly.",9,Depression,-1.0,sadness
+"For a while now, I've been checking my weight obsessively.",8,Eating Disorder,-1.0,fear
+"Pressure keeps building. It feels like I'm constantly extremely stressed.",7,Stress,-1.0,sadness
+"Fear controls everything. Lately, I've been constantly worried about life.",8,Anxiety,-1.0,fear
+"Nights feel endless. It's a struggle, I'm battling insomnia always.",7,Insomnia,-1.0,joy
+"Deadlines haunt me. My mind feels like it's extremely stressed.",8,Stress,-1.0,sadness
+"Skills feel outdated. Lately, I've been confused about my future.",6,Career Confusion,-1.0,fear
+"Health anxiety rules me. I think my mental state is constantly worried.",9,Health Anxiety,-1.0,fear
+"Therapy brings clarity. My mind feels like it's feeling much better slowly.",4,Positive Outlook,1.0,joy
+"Future looks brighter. Every day I'm feeling hopeful about possibilities.",3,Positive Outlook,1.0,joy
+"Joy feels distant. My mind feels like it's feeling very low always.",9,Depression,-1.0,sadness
+"For a while now, I've been struggling with food guilt.",8,Eating Disorder,-1.0,sadness
+"Sleep anxiety grows. It feels like I'm constantly extremely stressed.",7,Insomnia,-1.0,sadness
+"Panic attacks return. Lately, I've been constantly worried about triggers.",8,Anxiety,-1.0,fear
+"Mealtimes bring dread. It's a struggle, I'm avoiding food often.",7,Eating Disorder,-1.0,fear
+"Professional doubts grow. My mind feels like it's extremely confused.",8,Career Confusion,-1.0,fear
+"Applications overwhelm me. Lately, I've been confused about choices.",7,Career Confusion,-1.0,fear
+"Symptoms terrify me. I think my mental state is constantly worried.",8,Health Anxiety,-1.0,fear
+"Progress feels real. My mind feels like it's feeling much better daily.",4,Positive Outlook,1.0,joy
+"Healing continues steadily. Every day I'm feeling hopeful about life.",3,Positive Outlook,1.0,joy
+"Darkness surrounds me. My mind feels like it's feeling very low inside.",9,Depression,-1.0,sadness
+"For a while now, I've been hiding my eating habits.",8,Eating Disorder,-1.0,fear
+"Rest escapes me. It feels like I'm constantly extremely stressed.",7,Insomnia,-1.0,sadness
+"Anxiety never stops. Lately, I've been constantly worried about everything.",8,Anxiety,-1.0,fear
+"Food causes anxiety. It's a struggle, I'm fighting eating patterns.",7,Eating Disorder,-1.0,fear
+"Career choices paralyze. My mind feels like it's extremely confused.",8,Career Confusion,-1.0,fear
+"Market changes scare me. Lately, I've been confused about adapting.",7,Career Confusion,-1.0,fear
+"Health concerns dominate. I think my mental state is constantly worried.",8,Health Anxiety,-1.0,fear
+"Support helps healing. My mind feels like it's feeling much better now.",4,Positive Outlook,1.0,joy
+"Recovery strengthens daily. Every day I'm feeling hopeful about tomorrow.",3,Positive Outlook,1.0,joy
+"Energy feels depleted. My mind feels like it's feeling very low always.",9,Depression,-1.0,sadness
+"For a while now, I've been fearing weight gain constantly.",8,Eating Disorder,-1.0,fear
+"Tasks overwhelm me. It feels like I'm constantly extremely stressed.",7,Stress,-1.0,sadness
+"Worry consumes thoughts. Lately, I've been constantly worried about life.",8,Anxiety,-1.0,fear
+"Sleep feels impossible. It's a struggle, I'm awake most nights.",7,Insomnia,-1.0,sadness
+"Projects pile up. My mind feels like it's extremely stressed.",8,Stress,-1.0,sadness
+"I can't stop feeling excited about my recovery progress. Each day brings new strength.",3,Positive Outlook,1.0,joy
+"It feels like I'm constantly happy with my therapy journey. Small wins add up.",4,Positive Outlook,1.0,joy
+"I think my mental state is affecting my eating. I'm not eating properly anymore.",7,Eating Disorder,-1.0,sadness
+"It's been hard, I am worried about every minor health symptom lately.",8,Health Anxiety,-1.0,sadness
+"I am worried about health issues, and it's affecting my daily activities.",7,Health Anxiety,-1.0,fear
+"For a while now, I've been feeling more hopeful about life changes.",4,Positive Outlook,1.0,joy
+"I can't stop googling symptoms. I'm worried about health constantly.",9,Health Anxiety,-1.0,fear
+"I am struggling to sleep well, and it's affecting my whole day.",8,Insomnia,-1.0,joy
+"I am feeling hopeful about my future these days. Recovery seems possible.",3,Positive Outlook,1.0,joy
+"Sometimes, I think I'm constantly worried about everything around me.",7,Anxiety,-1.0,fear
+"I can't stop checking job listings. Career uncertainty overwhelms me daily.",8,Career Confusion,-1.0,fear
+"It feels like I'm constantly stressed about work deadlines and expectations.",7,Stress,-1.0,sadness
+"I think my mental state is very low. Depression makes everything harder.",9,Depression,-1.0,sadness
+"It's been hard, I am not eating properly at social gatherings.",8,Eating Disorder,-1.0,sadness
+"I am feeling anxious about meetings, and it's affecting my performance.",7,Anxiety,-1.0,fear
+"For a while now, I've been struggling with insomnia nightly.",8,Insomnia,-1.0,fear
+"I can't stop feeling overwhelmed by career choices and decisions.",7,Career Confusion,-1.0,surprise
+"I am stressed about deadlines, and it's affecting my peace.",8,Stress,-1.0,anger
+"I am seeing positive changes in my therapy journey lately.",4,Positive Outlook,1.0,joy
+"Sometimes, I think I'm constantly battling with food thoughts.",8,Eating Disorder,-1.0,fear
+"I can't stop feeling that something's wrong with my health.",9,Health Anxiety,-1.0,sadness
+"It feels like I'm constantly avoiding meals and social dining.",8,Eating Disorder,-1.0,sadness
+"I think my mental state is getting better with support.",4,Positive Outlook,1.0,joy
+"It's been hard, I am feeling very low and unmotivated.",9,Depression,-1.0,sadness
+"I am anxious about everything, and it's affecting my relationships.",8,Anxiety,-1.0,fear
+"For a while now, I've been struggling to find career direction.",7,Career Confusion,-1.0,fear
+"I can't stop worrying about my professional future.",8,Career Confusion,-1.0,fear
+"I am lying awake nightly, and it's affecting my energy.",7,Insomnia,-1.0,fear
+"I am making progress in managing my anxiety these days.",5,Positive Outlook,1.0,joy
+"Sometimes, I think I'm constantly overwhelmed by work pressure.",8,Stress,-1.0,fear
+"I can't stop thinking about health-related concerns daily.",8,Health Anxiety,-1.0,joy
+"It feels like I'm constantly fighting with my eating patterns.",9,Eating Disorder,-1.0,anger
+"I think my mental state is improving gradually with help.",4,Positive Outlook,1.0,joy
+"It's been hard, I am feeling stuck in my career path.",7,Career Confusion,-1.0,sadness
+"I am struggling with sleep, and it's affecting my focus.",8,Insomnia,-1.0,sadness
+"For a while now, I've been feeling very anxious socially.",7,Anxiety,-1.0,fear
+"I can't stop feeling drained and emotionally empty.",9,Depression,-1.0,sadness
+"I am stressed about everything, and it's affecting my health.",8,Stress,-1.0,anger
+"I am noticing small improvements in my mood these days.",4,Positive Outlook,1.0,joy
+"Sometimes, I think I'm constantly checking my symptoms.",8,Health Anxiety,-1.0,fear
+"I can't stop feeling confused about my career choices.",7,Career Confusion,-1.0,fear
+"It feels like I'm constantly battling with depression.",9,Depression,-1.0,fear
+"I think my mental state is affecting my appetite severely.",8,Eating Disorder,-1.0,sadness
+"It's been hard, I am experiencing panic attacks frequently.",8,Anxiety,-1.0,fear
+"I am worried about deadlines, and it's affecting my sleep.",7,Stress,-1.0,fear
+"For a while now, I've been making positive changes.",4,Positive Outlook,1.0,joy
+"I can't stop thinking about food and calories.",9,Eating Disorder,-1.0,joy
+"I am anxious about health issues, and it's affecting everything.",8,Health Anxiety,-1.0,fear
+"I am seeing hope in my recovery journey lately.",3,Positive Outlook,1.0,joy
+"Sometimes, I think I'm constantly fighting insomnia.",8,Insomnia,-1.0,fear
+"I can't stop feeling overwhelmed by work stress.",7,Stress,-1.0,surprise
+"It feels like I'm constantly questioning my career path.",8,Career Confusion,-1.0,fear
+"I think my mental state is finally improving slowly.",4,Positive Outlook,1.0,joy
+"It's been hard, I am struggling with constant worries.",7,Anxiety,-1.0,sadness
+"I am feeling very low, and it's affecting my motivation.",9,Depression,-1.0,sadness
+"For a while now, I've been avoiding proper meals.",8,Eating Disorder,-1.0,anger
+"I can't stop checking my body for symptoms.",8,Health Anxiety,-1.0,fear
+"I am tired but restless, and it's affecting my nights.",7,Insomnia,-1.0,sadness
+"I am finding new strength each day in recovery.",4,Positive Outlook,1.0,joy
+"Sometimes, I think I'm constantly overwhelmed by choices.",7,Career Confusion,-1.0,fear
+"I can't stop feeling anxious about every little thing.",8,Anxiety,-1.0,fear
+"It feels like I'm constantly fighting to stay awake.",7,Insomnia,-1.0,fear
+"I think my mental state is improving with therapy.",4,Positive Outlook,1.0,joy
+"It's been hard, I am worried about every health change.",8,Health Anxiety,-1.0,fear
+"I am stressed about work, and it's affecting my peace.",7,Stress,-1.0,anger
+"For a while now, I've been feeling more positive.",3,Positive Outlook,1.0,joy
+"I can't stop feeling lost in my career path.",8,Career Confusion,-1.0,sadness
+"I am struggling with meals, and it's affecting my health.",9,Eating Disorder,-1.0,sadness
+"I am learning to manage anxiety better these days.",5,Positive Outlook,1.0,joy
+"Sometimes, I think I'm constantly fighting depression.",9,Depression,-1.0,sadness
+"I can't stop worrying about my professional growth.",7,Career Confusion,-1.0,fear
+"It feels like I'm constantly battling with meal times.",8,Eating Disorder,-1.0,fear
+"I think my mental state is getting stronger daily.",4,Positive Outlook,1.0,joy
+"It's been hard, I am having trouble sleeping nightly.",8,Insomnia,-1.0,sadness
+"I am anxious about future, and it's affecting my present.",7,Anxiety,-1.0,fear
+"For a while now, I've been feeling overwhelmed by work.",8,Stress,-1.0,surprise
+"I can't stop checking my health symptoms online.",9,Health Anxiety,-1.0,fear
+"I am feeling more hopeful, and it's affecting me positively.",3,Positive Outlook,1.0,joy
+"Sometimes, I think I'm constantly improving gradually.",4,Positive Outlook,1.0,joy
+"I can't stop feeling anxious about my health.",8,Health Anxiety,-1.0,fear
+"It feels like I'm constantly fighting sleep problems.",7,Insomnia,-1.0,anger
+"I think my mental state is trapped in worry cycles.",8,Anxiety,-1.0,fear
+"It's been hard, I am feeling lost professionally.",7,Career Confusion,-1.0,sadness
+"I am struggling with stress, and it's affecting everything.",8,Stress,-1.0,sadness
+"For a while now, I've been avoiding proper nutrition.",9,Eating Disorder,-1.0,fear
+"I can't stop feeling the weight of depression.",9,Depression,-1.0,sadness
+"I am making progress, and it's affecting me well.",4,Positive Outlook,1.0,joy
+"Sometimes, I think I'm constantly growing stronger.",3,Positive Outlook,1.0,joy
+"I can't stop checking my blood pressure and heart rate every hour. The fear of having a health issue is overwhelming me.",8,Health Anxiety,-1.0,fear
+"My appetite has completely disappeared lately. The thought of food makes me feel guilty and anxious.",9,Eating Disorder,-1.0,sadness
+"Every little task feels like climbing a mountain. I've been in bed for days, unable to find the energy to do anything.",7,Depression,-1.0,sadness
+"My mind races with worries about the future. Simple decisions make me freeze with uncertainty.",6,Anxiety,-1.0,fear
+"I've been staring at the ceiling for hours every night. Sleep feels impossible no matter how exhausted I am.",8,Insomnia,-1.0,sadness
+"The deadlines at work keep piling up, and I feel like I'm drowning in responsibilities.",7,Stress,-1.0,sadness
+"Today I accomplished all my goals and feel proud of my progress. Life seems full of possibilities.",8,Positive Outlook,1.0,joy
+"I feel stuck between different career paths. Each choice seems both right and wrong at the same time.",6,Career Confusion,-1.0,sadness
+"The constant fear of getting sick is affecting my daily life. I keep googling symptoms and feeling worse.",9,Health Anxiety,-1.0,sadness
+"I've started counting every calorie obsessively. The mirror has become my enemy lately.",8,Eating Disorder,-1.0,anger
+"Little things that used to bring joy now feel meaningless. I'm struggling to find purpose in anything.",7,Depression,-1.0,sadness
+"My hands shake when I think about upcoming social events. The anxiety is becoming unbearable.",8,Anxiety,-1.0,fear
+"Another night of tossing and turning. The lack of sleep is affecting my concentration during the day.",9,Insomnia,-1.0,anger
+"The weight of responsibilities feels crushing. I can barely catch my breath between tasks.",7,Stress,-1.0,sadness
+"I'm making progress in therapy and feeling more confident each day. Small wins add up.",7,Positive Outlook,1.0,joy
+"Should I switch careers or stay put? The uncertainty about my professional future is paralyzing.",6,Career Confusion,-1.0,fear
+"Every minor body sensation sends me into panic mode. I'm constantly worried about serious illnesses.",8,Health Anxiety,-1.0,fear
+"Mealtimes have become a source of intense anxiety. I can't eat without feeling overwhelming guilt.",9,Eating Disorder,-1.0,fear
+"Getting out of bed feels like an impossible task. The darkness seems to follow me everywhere.",8,Depression,-1.0,sadness
+"My thoughts spiral out of control with worst-case scenarios. Simple tasks feel overwhelming.",7,Anxiety,-1.0,joy
+"Sleep has become my enemy. I lie awake for hours, watching time tick by slowly.",8,Insomnia,-1.0,fear
+"The pressure to perform perfectly at work is consuming all my energy and joy.",7,Stress,-1.0,joy
+"I've started practicing gratitude, and it's changing my perspective. Each day brings new opportunities.",6,Positive Outlook,1.0,joy
+"Every job posting feels both exciting and terrifying. I'm paralyzed by career choices.",5,Career Confusion,-1.0,joy
+"I spend hours researching health conditions online. Every headache feels like a serious threat.",7,Health Anxiety,-1.0,sadness
+"The scale controls my mood entirely. Good days and bad days depend on the numbers I see.",8,Eating Disorder,-1.0,joy
+"Nothing seems worth doing anymore. Even basic tasks feel meaningless and exhausting.",9,Depression,-1.0,sadness
+"Social situations make my heart race. I'm constantly worried about judgment from others.",6,Anxiety,-1.0,fear
+"My mind won't quiet down at bedtime. Sleep feels like a distant memory these days.",7,Insomnia,-1.0,sadness
+"Work deadlines keep me up at night. The stress is affecting my relationships and health.",8,Stress,-1.0,fear
+"I've found new hobbies that bring me joy. Life feels full of color and possibility again.",9,Positive Outlook,1.0,joy
+"The thought of choosing the wrong career path keeps me awake at night. Every choice feels final.",7,Career Confusion,-1.0,sadness
+"I keep checking my temperature and pulse. Health anxiety is taking over my daily routine.",6,Health Anxiety,-1.0,fear
+"Food has become the enemy. I spend hours planning and restricting my meals.",8,Eating Disorder,-1.0,anger
+"The simplest tasks feel overwhelming. I can't remember the last time I felt truly happy.",7,Depression,-1.0,joy
+"Constant worry about the future prevents me from enjoying the present moment.",6,Anxiety,-1.0,joy
+"Night after night, sleep eludes me. The exhaustion is affecting every aspect of my life.",8,Insomnia,-1.0,sadness
+"The constant pressure to meet expectations is overwhelming. I feel like I'm always behind.",7,Stress,-1.0,sadness
+"Small victories make each day brighter. I'm learning to appreciate life's simple pleasures.",8,Positive Outlook,1.0,joy
+"I'm torn between following my passion and choosing a stable career path.",6,Career Confusion,-1.0,anger
+"Every unexplained pain sends me into a panic. I'm constantly worried about my health.",7,Health Anxiety,-1.0,fear
+"The mirror has become my worst enemy. I can't stop obsessing over my appearance and diet.",9,Eating Disorder,-1.0,sadness
+"Each day feels heavier than the last. Simple tasks require enormous effort now.",8,Depression,-1.0,sadness
+"My mind won't stop racing with worst-case scenarios. Anxiety controls my every decision.",7,Anxiety,-1.0,fear
+"Sleep has become a distant memory. I watch the clock tick through another sleepless night.",8,Insomnia,-1.0,fear
+"The demands of work and life feel crushing. I'm struggling to keep my head above water.",7,Stress,-1.0,sadness
+"I've started seeing progress in my personal growth. Each day brings new opportunities.",6,Positive Outlook,1.0,joy
+"The endless career options paralyze me with indecision. Every choice feels permanent.",7,Career Confusion,-1.0,joy
+"I obsessively monitor my vital signs. Health concerns consume my thoughts constantly.",8,Health Anxiety,-1.0,fear
+"Eating has become a source of intense anxiety and guilt. I can't enjoy food anymore.",9,Eating Disorder,-1.0,anger
+"The world feels gray and meaningless. I struggle to find joy in anything lately.",8,Depression,-1.0,sadness
+"Everyday situations trigger intense anxiety. I feel like I'm always on high alert.",7,Anxiety,-1.0,joy
+"Another restless night staring at the ceiling. Sleep feels impossible to achieve.",6,Insomnia,-1.0,fear
+"Work pressure is crushing my spirit. The stress never seems to end.",8,Stress,-1.0,anger
+"I'm discovering new strengths within myself. Life feels full of possibilities now.",7,Positive Outlook,1.0,joy
+"My career path feels uncertain and scary. I'm afraid of making the wrong choice.",6,Career Confusion,-1.0,fear
+"Every body sensation triggers health anxiety. I'm constantly worried about illness.",8,Health Anxiety,-1.0,fear
+"The thought of eating makes me anxious. Food has become a constant battle.",7,Eating Disorder,-1.0,fear
+"Getting through each day feels like an enormous effort. Depression clouds everything.",9,Depression,-1.0,joy
+"Anxiety follows me everywhere. Simple tasks become overwhelming challenges.",8,Anxiety,-1.0,fear
+"Sleep deprivation is affecting my whole life. Insomnia has become my constant companion.",7,Insomnia,-1.0,sadness
+"The stress of daily responsibilities is becoming too much to handle.",6,Stress,-1.0,anger
+"I'm learning to appreciate life's journey. Each day brings new opportunities for growth.",8,Positive Outlook,1.0,joy
+"The uncertainty about my professional future keeps me up at night.",7,Career Confusion,-1.0,fear
+"Health concerns dominate my thoughts. Every symptom feels like a serious threat.",6,Health Anxiety,-1.0,sadness
+"My relationship with food has become complicated and painful. I feel trapped.",8,Eating Disorder,-1.0,sadness
+"Depression makes everything feel pointless. Simple tasks require enormous effort.",7,Depression,-1.0,sadness
+"My anxiety prevents me from enjoying normal activities. Fear controls my choices.",9,Anxiety,-1.0,joy
+"Night after night, sleep remains elusive. The exhaustion is overwhelming.",8,Insomnia,-1.0,fear
+"Stress follows me everywhere. I can't seem to find a moment of peace.",7,Stress,-1.0,joy
+"I'm making progress and feeling hopeful about the future. Life seems brighter.",6,Positive Outlook,1.0,joy
+"Career decisions paralyze me with fear. I'm afraid of choosing wrong.",8,Career Confusion,-1.0,fear
+"I constantly worry about getting sick. Health anxiety controls my daily life.",7,Health Anxiety,-1.0,fear
+"Mealtimes fill me with dread. The eating disorder thoughts never stop.",6,Eating Disorder,-1.0,fear
+"Depression makes each day feel endless. Nothing brings joy anymore.",8,Depression,-1.0,joy
+"Anxiety turns simple tasks into mountains. I feel constantly overwhelmed.",7,Anxiety,-1.0,fear
+"Sleep feels like a distant memory. Insomnia rules my nights.",9,Insomnia,-1.0,sadness
+"The pressure of daily life is crushing. Stress affects everything I do.",8,Stress,-1.0,fear
+"I'm finding joy in small moments again. Life feels worth living.",7,Positive Outlook,1.0,joy
+"The future of my career seems uncertain and scary. Choices overwhelm me.",6,Career Confusion,-1.0,fear
+"Every health symptom terrifies me. I can't stop worrying about illness.",8,Health Anxiety,-1.0,fear
+"Food has become my enemy. The eating disorder thoughts are exhausting.",7,Eating Disorder,-1.0,sadness
+"Depression colors everything gray. Getting through each day is a struggle.",6,Depression,-1.0,sadness
+"Anxiety follows me like a shadow. Normal tasks feel impossible now.",8,Anxiety,-1.0,sadness
+"Another sleepless night passes slowly. Insomnia is draining my energy.",7,Insomnia,-1.0,fear
+"Work stress is affecting my mental health. The pressure never ends.",9,Stress,-1.0,fear
+"Each day brings new hope and possibility. I'm growing stronger.",8,Positive Outlook,1.0,joy
+"Career uncertainty keeps me awake at night. Decisions feel overwhelming.",7,Career Confusion,-1.0,fear
+"Health anxiety dominates my thoughts. Every pain feels significant.",6,Health Anxiety,-1.0,joy
+"The mirror reflects my worst fears. Eating disorder thoughts consume me.",8,Eating Disorder,-1.0,anger
+"Depression makes everything feel heavy. Simple tasks seem impossible.",7,Depression,-1.0,sadness
+"Constant worry about everything consumes my energy. Anxiety never rests.",9,Anxiety,-1.0,fear
+"Sleep eludes me night after night. Insomnia affects my whole life.",8,Insomnia,-1.0,fear
+"The weight of responsibility crushes me. Stress controls everything.",7,Stress,-1.0,fear
+"I'm discovering inner strength daily. Life holds new possibilities.",6,Positive Outlook,1.0,joy
+"Choosing a career path feels impossible. The future seems uncertain.",8,Career Confusion,-1.0,sadness
+"Health worries consume my daily thoughts. Every symptom scares me.",7,Health Anxiety,-1.0,fear
+"Food and guilt are constant companions. The eating disorder rules me.",9,Eating Disorder,-1.0,anger
+"Depression clouds my every moment. Joy feels like a distant memory.",8,Depression,-1.0,sadness
+"Anxiety makes normal life challenging. Fear controls my choices.",7,Anxiety,-1.0,fear
+"Sleep has become a nightly battle. Insomnia won't let me rest.",6,Insomnia,-1.0,fear
+"Daily pressures pile up endlessly. Stress affects my whole life.",8,Stress,-1.0,fear
+"I'm embracing positive changes. Each day brings new opportunities.",7,Positive Outlook,1.0,joy
+"Career decisions paralyze me with fear. The future seems daunting.",9,Career Confusion,-1.0,fear
+"My health anxiety controls every aspect of my daily routine.",8,Health Anxiety,-1.0,fear
+"Eating has become a source of constant stress and worry.",7,Eating Disorder,-1.0,anger
+"Depression makes everything feel meaningless and gray.",6,Depression,-1.0,sadness
+"Anxiety turns simple tasks into overwhelming challenges.",8,Anxiety,-1.0,fear
+"Sleep feels impossible no matter how exhausted I am.",7,Insomnia,-1.0,sadness
+"The stress of daily life is becoming unbearable.",9,Stress,-1.0,anger
+"I'm finding strength in my journey of personal growth.",8,Positive Outlook,1.0,joy
+"The uncertainty of my career path weighs heavily.",7,Career Confusion,-1.0,fear
+"I think my heart rate is unusually high today. Every small pain makes me worry about serious health issues.",7,Health Anxiety,-1.0,fear
+"I've been skipping meals more frequently lately. The thought of eating makes me feel overwhelmed with anxiety.",8,Eating Disorder,-1.0,fear
+"My mind won't stop racing about everyday tasks. I feel like I'm losing control over my thoughts.",6,Anxiety,-1.0,sadness
+"I haven't enjoyed my usual activities lately. Everything feels gray and meaningless.",7,Depression,-1.0,sadness
+"I lie awake for hours, thinking about everything and nothing. Sleep feels impossible to achieve.",8,Insomnia,-1.0,sadness
+"The deadlines at work keep piling up. I feel like I can't catch my breath between tasks.",7,Stress,-1.0,sadness
+"I've been making progress in therapy. Each day feels a bit brighter than the last.",6,Positive Outlook,1.0,joy
+"The thought of choosing the wrong career path paralyzes me. I feel stuck between different options.",7,Career Confusion,-1.0,sadness
+"Every little headache makes me think something's seriously wrong. I can't stop googling symptoms.",8,Health Anxiety,-1.0,fear
+"I feel guilty whenever I eat. The mirror has become my enemy these days.",9,Eating Disorder,-1.0,sadness
+"Simple decisions make me freeze with uncertainty. My anxiety controls everything I do.",7,Anxiety,-1.0,fear
+"Getting out of bed feels like climbing a mountain. Nothing seems worth the effort anymore.",8,Depression,-1.0,joy
+"Another sleepless night watching the clock. The exhaustion is affecting my whole day.",6,Insomnia,-1.0,fear
+"I feel overwhelmed by responsibilities. The pressure keeps building day by day.",7,Stress,-1.0,fear
+"I'm starting to see positive changes in my life. Small wins add up to bigger victories.",8,Positive Outlook,1.0,joy
+"Every job posting feels both exciting and terrifying. I'm paralyzed by career choices.",7,Career Confusion,-1.0,joy
+"I can't stop checking my blood pressure repeatedly. Health concerns consume my thoughts.",6,Health Anxiety,-1.0,fear
+"Mealtimes have become a battle. I struggle with every bite I take.",8,Eating Disorder,-1.0,sadness
+"My thoughts spiral out of control with worry. Even small tasks feel overwhelming.",7,Anxiety,-1.0,joy
+"The days feel endless and empty. I'm struggling to find any motivation.",9,Depression,-1.0,sadness
+"Sleep has become my enemy. I toss and turn all night long.",8,Insomnia,-1.0,anger
+"The constant pressure to perform perfectly is draining my energy.",7,Stress,-1.0,fear
+"I'm discovering new strengths within myself. Life feels full of possibilities.",6,Positive Outlook,1.0,joy
+"I feel lost about which career path to choose. Every decision seems final.",8,Career Confusion,-1.0,sadness
+"My health worries are taking over my daily life. Every symptom feels serious.",7,Health Anxiety,-1.0,joy
+"Food has become a source of constant anxiety. I can't enjoy meals anymore.",6,Eating Disorder,-1.0,fear
+"Worry follows me everywhere I go. I can't seem to find peace.",8,Anxiety,-1.0,fear
+"The simplest tasks feel impossible lately. Depression clouds everything.",7,Depression,-1.0,sadness
+"Night after night, sleep eludes me. The fatigue is overwhelming.",9,Insomnia,-1.0,sadness
+"Work stress is consuming all my energy. I feel constantly behind.",8,Stress,-1.0,sadness
+"I'm learning to appreciate life's journey. Each day brings new hope.",7,Positive Outlook,1.0,joy
+"The uncertainty about my professional future keeps me up at night.",6,Career Confusion,-1.0,fear
+"I obsess over every minor health symptom. The worry never stops.",8,Health Anxiety,-1.0,joy
+"Eating has become complicated and stressful. I overthink every meal.",7,Eating Disorder,-1.0,sadness
+"Anxiety makes normal activities feel impossible. I'm always on edge.",9,Anxiety,-1.0,sadness
+"Nothing brings joy anymore. I feel disconnected from everything.",8,Depression,-1.0,sadness
+"I can't remember the last time I had a good night's sleep.",7,Insomnia,-1.0,joy
+"The demands of daily life feel crushing. I'm struggling to cope.",6,Stress,-1.0,sadness
+"I'm seeing progress in my personal growth. Things are looking up.",8,Positive Outlook,1.0,joy
+"I'm torn between different career paths. The choices overwhelm me.",7,Career Confusion,-1.0,sadness
+"Health anxiety dominates my thoughts. I fear the worst constantly.",6,Health Anxiety,-1.0,fear
+"The scale controls my mood entirely. Food thoughts never stop.",8,Eating Disorder,-1.0,joy
+"My mind races with worst-case scenarios. Anxiety controls me.",7,Anxiety,-1.0,fear
+"Depression makes everything feel heavy and meaningless.",9,Depression,-1.0,sadness
+"Sleep deprivation is affecting my whole life now.",8,Insomnia,-1.0,sadness
+"Stress follows me like a shadow throughout the day.",7,Stress,-1.0,sadness
+"I'm finding joy in small moments again. Hope returns.",6,Positive Outlook,1.0,joy
+"Career decisions paralyze me with uncertainty and fear.",8,Career Confusion,-1.0,fear
+"Every body sensation triggers health-related panic.",7,Health Anxiety,-1.0,fear
+"Mealtimes fill me with dread and anxiety.",9,Eating Disorder,-1.0,fear
+"Constant worry prevents me from enjoying life.",8,Anxiety,-1.0,joy
+"Each day feels harder than the last to face.",7,Depression,-1.0,sadness
+"Insomnia has become my constant companion.",6,Insomnia,-1.0,fear
+"The pressure never seems to let up.",8,Stress,-1.0,fear
+"Life feels full of new possibilities now.",7,Positive Outlook,1.0,joy
+"I feel stuck between different career options.",9,Career Confusion,-1.0,sadness
+"Health concerns consume my daily thoughts.",8,Health Anxiety,-1.0,fear
+"Food has become my biggest challenge.",7,Eating Disorder,-1.0,joy
+"Anxiety turns simple tasks into mountains.",6,Anxiety,-1.0,fear
+"Depression colors everything in gray tones.",8,Depression,-1.0,sadness
+"Sleep feels like a distant memory now.",7,Insomnia,-1.0,sadness
+"Stress affects everything in my life.",9,Stress,-1.0,sadness
+"Each day brings new opportunities for growth.",8,Positive Outlook,1.0,joy
+"The future of my career seems uncertain.",7,Career Confusion,-1.0,fear
+"I'm constantly worried about my health.",6,Health Anxiety,-1.0,fear
+"Eating causes me intense anxiety daily.",8,Eating Disorder,-1.0,anger
+"Worry controls my every decision now.",7,Anxiety,-1.0,fear
+"Nothing seems worth doing anymore.",9,Depression,-1.0,joy
+"Another night of restless thoughts.",8,Insomnia,-1.0,fear
+"The pressure keeps building up.",7,Stress,-1.0,fear
+"I'm feeling more hopeful each day.",6,Positive Outlook,1.0,joy
+"Career choices overwhelm me completely.",8,Career Confusion,-1.0,joy
+"My health worries never stop.",7,Health Anxiety,-1.0,sadness
+"Food thoughts consume my mind.",9,Eating Disorder,-1.0,anger
+"Anxiety rules my daily life.",8,Anxiety,-1.0,fear
+"Depression makes everything harder.",7,Depression,-1.0,sadness
+"Sleep eludes me every night.",6,Insomnia,-1.0,sadness
+"Stress dominates my thoughts.",8,Stress,-1.0,fear
+"Hope grows stronger daily.",7,Positive Outlook,1.0,joy
+"My career path feels unclear.",9,Career Confusion,-1.0,fear
+"Health anxiety controls me.",8,Health Anxiety,-1.0,fear
+"Eating brings constant guilt.",7,Eating Disorder,-1.0,sadness
+"Worry never leaves my mind.",6,Anxiety,-1.0,fear
+"Each day feels like a struggle.",8,Depression,-1.0,sadness
+"Insomnia drains my energy.",7,Insomnia,-1.0,fear
+"The stress never ends.",9,Stress,-1.0,joy
+"Life feels brighter now.",8,Positive Outlook,1.0,joy
+"Career decisions scare me.",7,Career Confusion,-1.0,fear
+"I fear serious illness.",6,Health Anxiety,-1.0,fear
+"Food frightens me now.",8,Eating Disorder,-1.0,fear
+"Anxiety haunts me daily.",7,Anxiety,-1.0,fear
+"Depression clouds everything.",9,Depression,-1.0,sadness
+"Sleep avoids me nightly.",8,Insomnia,-1.0,fear
+"Stress overwhelms me constantly.",7,Stress,-1.0,fear
+"Hope returns gradually.",6,Positive Outlook,1.0,joy
+"Career confusion persists.",8,Career Confusion,-1.0,fear
+"Health fears dominate.",7,Health Anxiety,-1.0,fear
+"Eating causes anxiety.",9,Eating Disorder,-1.0,fear
+"Worry controls everything.",8,Anxiety,-1.0,fear
+"Emptiness fills days.",7,Depression,-1.0,sadness
+"Sleepless nights continue.",6,Insomnia,-1.0,fear
+"Pressure builds daily.",8,Stress,-1.0,fear
+"Positivity grows stronger.",7,Positive Outlook,1.0,joy
+"Future seems uncertain.",9,Career Confusion,-1.0,fear
+"Health concerns increase.",8,Health Anxiety,-1.0,fear
+"Food battles continue.",7,Eating Disorder,-1.0,anger
+"Anxiety never ceases.",6,Anxiety,-1.0,fear
+"Depression deepens daily.",8,Depression,-1.0,sadness
+"Sleep remains elusive.",7,Insomnia,-1.0,fear
+"Stress levels rise.",9,Stress,-1.0,anger
+"Hope brightens days.",8,Positive Outlook,1.0,joy

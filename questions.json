@@ -1,0 +1,378 @@
+{
+    "Anxiety": [
+        {
+            "question": "How often do you feel at ease during the day?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "Do you find yourself worrying about things frequently?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "How comfortable do you feel in social situations?",
+            "options": [
+                "Very comfortable",
+                "Comfortable",
+                "Sometimes uncomfortable",
+                "Often uncomfortable"
+            ]
+        },
+        {
+            "question": "Do you feel restless or on edge?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "How often do you feel calm and relaxed?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        }
+    ],
+    "Depression": [
+        {
+            "question": "How often do you feel enthusiastic about your activities?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "Do you feel hopeful about your future?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "How often do you feel like you have energy?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "Do you find it easy to get out of bed in the morning?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "How often do you feel down or sad?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        }
+    ],
+    "Career Confusion": [
+        {
+            "question": "How clear do you feel about your professional goals?",
+            "options": [
+                "Very clear",
+                "Somewhat clear",
+                "Unclear",
+                "Very unclear"
+            ]
+        },
+        {
+            "question": "Do you feel satisfied with your current job role?",
+            "options": [
+                "Very satisfied",
+                "Satisfied",
+                "Neutral",
+                "Unsatisfied"
+            ]
+        },
+        {
+            "question": "How often do you think about changing your career?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "Do you feel confident in your career decisions?",
+            "options": [
+                "Very confident",
+                "Confident",
+                "Unsure",
+                "Not confident"
+            ]
+        },
+        {
+            "question": "How often do you feel uncertain about your career path?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        }
+    ],
+    "Positive Outlook": [
+        {
+            "question": "How often do you feel optimistic about your day?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "Do you find it easy to stay positive?",
+            "options": [
+                "Yes, very easy",
+                "Mostly",
+                "Sometimes",
+                "Not really"
+            ]
+        },
+        {
+            "question": "How often do you feel grateful for what you have?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "Do you look forward to the future?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "How often do you feel happy?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        }
+    ],
+    "Health Anxiety": [
+        {
+            "question": "How often do you think about your health?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "Do you frequently check your symptoms online?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "How often do you visit the doctor?",
+            "options": [
+                "Only when necessary",
+                "Occasionally",
+                "Frequently",
+                "Very often"
+            ]
+        },
+        {
+            "question": "Do you feel reassured after a medical check-up?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "How often do you feel concerned about minor health issues?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        }
+    ],
+    "Insomnia": [
+        {
+            "question": "How well have you been sleeping lately?",
+            "options": [
+                "Very well",
+                "Well",
+                "Okay",
+                "Not well"
+            ]
+        },
+        {
+            "question": "Do you find it hard to fall asleep?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "How often do you wake up during the night?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "Do you feel rested when you wake up?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "How often do you have trouble staying asleep?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        }
+    ],
+    "Stress": [
+        {
+            "question": "How often do you feel overwhelmed?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "Do you feel like you have enough time to relax?",
+            "options": [
+                "Yes, plenty",
+                "Enough",
+                "A little",
+                "Not at all"
+            ]
+        },
+        {
+            "question": "How often do you feel pressured by your responsibilities?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "Do you find it easy to manage your daily tasks?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "How often do you feel tense or on edge?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        }
+    ],
+    "Eating Disorder": [
+        {
+            "question": "How do you feel about your eating habits?",
+            "options": [
+                "Very satisfied",
+                "Satisfied",
+                "Neutral",
+                "Unsatisfied"
+            ]
+        },
+        {
+            "question": "Do you often think about food or your body image?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "How often do you feel guilty after eating?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "Do you feel comfortable eating in social settings?",
+            "options": [
+                "Always",
+                "Often",
+                "Sometimes",
+                "Rarely"
+            ]
+        },
+        {
+            "question": "How often do you skip meals?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        }
+    ]
+}
