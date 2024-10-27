@@ -374,5 +374,52 @@
                 "Often"
             ]
         }
+    ],
+    "Mixed Reactions": [
+        {
+            "question": "How often do you experience conflicting emotions about the same situation?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "Do you find yourself feeling both excited and anxious about new opportunities?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "How frequently do you feel both happy and sad when reminiscing about the past?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "Do you experience both relief and worry after making important decisions?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        },
+        {
+            "question": "How often do you feel both motivated and overwhelmed by your goals?",
+            "options": [
+                "Never",
+                "Rarely",
+                "Sometimes",
+                "Often"
+            ]
+        }
     ]
 }

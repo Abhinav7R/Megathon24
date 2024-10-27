@@ -1,3 +1,5 @@
+import pickle
+
 class MentalHealthScorer:
     def __init__(self):
         # Scoring weights for each option position (0-3 index in options array)
@@ -133,21 +135,27 @@ class MentalHealthScorer:
         return all(0 <= r <= 3 for r in responses)
 
 
-# Example usage:
 def main():
     scorer = MentalHealthScorer()
+
+    with open('responses.pkl', 'rb') as file:
+        data = pickle.load(file)
     
-    # Example responses (0 = first option, 3 = last option)
-    responses = [2, 1, 3, 1, 2]  # Example responses for anxiety
-    
+    for disorder, responses in data.items():
+        print("disorder and response: ",disorder, responses)
+        if scorer.validate_responses(disorder, responses):
+            score = scorer.calculate_score(responses, disorder)
+            intensity = scorer.get_intensity_level(score)
+            print(f"{disorder} Score: {score}/10 - {intensity}\n")
+        else:
+            print(f"Invalid responses for {disorder}\n\n")    
     try:
-        score = scorer.calculate_score(responses, 'Anxiety')
-        intensity = scorer.get_intensity_level(score)
-        print(f"Anxiety Score: {score}/10")
-        print(f"Intensity Level: {intensity}")
+        # score = scorer.calculate_score(responses, 'Anxiety')
+        # intensity = scorer.get_intensity_level(score)
+        # print(f"Anxiety Score: {score}/10")
+        # print(f"Intensity Level: {intensity}")
         
-        # Example of analyzing multiple categories
-        categories = ['Anxiety', 'Depression', 'Stress']
+        categories = ['Anxiety', 'Depression', 'Stress', 'Positive Outlook', 'Eating Disorder', 'Insomnia', 'Health Anxiety', 'Career Confusion', 'Mixed Reactions']
         for category in categories:
             if scorer.validate_responses(category, responses):
                 score = scorer.calculate_score(responses, category)
